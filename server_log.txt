@@ -1,0 +1,7217 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:43:42] 
+[19:43:42] Server Plugins
+[19:43:42] --------------
+[19:43:42]  Loaded 0 plugins.
+
+[19:43:42] 
+[19:43:42] Filterscripts
+[19:43:42] ---------------
+[19:43:42]   Loaded 0 filterscripts.
+
+[19:43:42] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[19:43:42] 
+----------------------------------
+[19:43:42]   Bare Script
+
+[19:43:42] ----------------------------------
+
+[19:43:42] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:12:11] 
+[19:12:11] Server Plugins
+[19:12:11] --------------
+[19:12:11]  Loading plugin: sscanf.dll
+[19:12:11] 
+[19:12:11]  ===============================
+[19:12:11] 
+[19:12:11]       sscanf plugin loaded.     
+[19:12:11] 
+[19:12:11]          Version: 2.13.1
+[19:12:11] 
+[19:12:11]    (c) 2022 Alex "Y_Less" Cole  
+[19:12:11] 
+[19:12:11]  ===============================
+[19:12:11] 
+[19:12:11]   Loaded.
+[19:12:11]  Loading plugin: streamer.dll
+[19:12:11] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[19:12:11]   Loaded.
+[19:12:11]  Loading plugin: mysql.dll
+[19:12:11]  >> plugin.mysql: R41-3 successfully loaded.
+[19:12:11]   Loaded.
+[19:12:11]  Loaded 3 plugins.
+
+[19:12:11] I couldn't load any gamemode scripts. Please verify your server.cfg
+[19:12:11] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:12:14] 
+[19:12:14] Server Plugins
+[19:12:14] --------------
+[19:12:14]  Loading plugin: sscanf.dll
+[19:12:14] 
+[19:12:14]  ===============================
+[19:12:14] 
+[19:12:14]       sscanf plugin loaded.     
+[19:12:14] 
+[19:12:14]          Version: 2.13.1
+[19:12:14] 
+[19:12:14]    (c) 2022 Alex "Y_Less" Cole  
+[19:12:14] 
+[19:12:14]  ===============================
+[19:12:14] 
+[19:12:14]   Loaded.
+[19:12:14]  Loading plugin: streamer.dll
+[19:12:14] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[19:12:14]   Loaded.
+[19:12:14]  Loading plugin: mysql.dll
+[19:12:14]  >> plugin.mysql: R41-3 successfully loaded.
+[19:12:14]   Loaded.
+[19:12:14]  Loaded 3 plugins.
+
+[19:12:14] I couldn't load any gamemode scripts. Please verify your server.cfg
+[19:12:14] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:12:15] 
+[19:12:15] Server Plugins
+[19:12:15] --------------
+[19:12:15]  Loading plugin: sscanf.dll
+[19:12:15] 
+[19:12:15]  ===============================
+[19:12:15] 
+[19:12:15]       sscanf plugin loaded.     
+[19:12:15] 
+[19:12:15]          Version: 2.13.1
+[19:12:15] 
+[19:12:15]    (c) 2022 Alex "Y_Less" Cole  
+[19:12:15] 
+[19:12:15]  ===============================
+[19:12:15] 
+[19:12:15]   Loaded.
+[19:12:15]  Loading plugin: streamer.dll
+[19:12:15] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[19:12:15]   Loaded.
+[19:12:15]  Loading plugin: mysql.dll
+[19:12:15]  >> plugin.mysql: R41-3 successfully loaded.
+[19:12:15]   Loaded.
+[19:12:15]  Loaded 3 plugins.
+
+[19:12:15] I couldn't load any gamemode scripts. Please verify your server.cfg
+[19:12:15] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:12:15] 
+[19:12:15] Server Plugins
+[19:12:15] --------------
+[19:12:15]  Loading plugin: sscanf.dll
+[19:12:15] 
+[19:12:15]  ===============================
+[19:12:15] 
+[19:12:15]       sscanf plugin loaded.     
+[19:12:15] 
+[19:12:15]          Version: 2.13.1
+[19:12:15] 
+[19:12:15]    (c) 2022 Alex "Y_Less" Cole  
+[19:12:15] 
+[19:12:15]  ===============================
+[19:12:15] 
+[19:12:15]   Loaded.
+[19:12:15]  Loading plugin: streamer.dll
+[19:12:15] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[19:12:15]   Loaded.
+[19:12:15]  Loading plugin: mysql.dll
+[19:12:15]  >> plugin.mysql: R41-3 successfully loaded.
+[19:12:15]   Loaded.
+[19:12:15]  Loaded 3 plugins.
+
+[19:12:15] I couldn't load any gamemode scripts. Please verify your server.cfg
+[19:12:15] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:17:12] 
+[19:17:12] Server Plugins
+[19:17:12] --------------
+[19:17:12]  Loading plugin: sscanf.dll
+[19:17:12] 
+[19:17:12]  ===============================
+[19:17:12] 
+[19:17:12]       sscanf plugin loaded.     
+[19:17:12] 
+[19:17:12]          Version: 2.13.1
+[19:17:12] 
+[19:17:12]    (c) 2022 Alex "Y_Less" Cole  
+[19:17:12] 
+[19:17:12]  ===============================
+[19:17:12] 
+[19:17:12]   Loaded.
+[19:17:12]  Loading plugin: streamer.dll
+[19:17:12] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[19:17:12]   Loaded.
+[19:17:12]  Loading plugin: mysql.dll
+[19:17:12]  >> plugin.mysql: R41-4 successfully loaded.
+[19:17:12]   Loaded.
+[19:17:12]  Loaded 3 plugins.
+
+[19:17:12] 
+[19:17:12] Filterscripts
+[19:17:12] ---------------
+[19:17:12]   Loaded 0 filterscripts.
+
+[19:17:12] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[19:17:12] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[19:17:12] 
+----------------------------------
+[19:17:12]   Bare Script
+
+[19:17:12] ----------------------------------
+
+[19:17:12] Number of vehicle models: 0
+[19:17:12] --- Server Shutting Down.
+[19:17:12] 
+[19:17:12]  ===============================
+[19:17:12] 
+[19:17:12]      sscanf plugin unloaded.    
+[19:17:12] 
+[19:17:12]  ===============================
+[19:17:12] 
+[19:17:12] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+[19:17:12] plugin.mysql: Unloading plugin...
+[19:17:12] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:17:55] 
+[19:17:55] Server Plugins
+[19:17:55] --------------
+[19:17:55]  Loading plugin: sscanf.dll
+[19:17:55] 
+[19:17:55]  ===============================
+[19:17:55] 
+[19:17:55]       sscanf plugin loaded.     
+[19:17:55] 
+[19:17:55]          Version: 2.13.1
+[19:17:55] 
+[19:17:55]    (c) 2022 Alex "Y_Less" Cole  
+[19:17:55] 
+[19:17:55]  ===============================
+[19:17:55] 
+[19:17:55]   Loaded.
+[19:17:55]  Loading plugin: streamer.dll
+[19:17:55] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[19:17:55]   Loaded.
+[19:17:55]  Loading plugin: mysql.dll
+[19:17:55]  >> plugin.mysql: R41-4 successfully loaded.
+[19:17:55]   Loaded.
+[19:17:55]  Loaded 3 plugins.
+
+[19:17:55] 
+[19:17:55] Filterscripts
+[19:17:55] ---------------
+[19:17:55]   Loaded 0 filterscripts.
+
+[19:17:55] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[19:17:55] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[19:17:55] 
+----------------------------------
+[19:17:55]   Bare Script
+
+[19:17:55] ----------------------------------
+
+[19:17:55] Number of vehicle models: 0
+[19:17:55] --- Server Shutting Down.
+[19:17:55] 
+[19:17:55]  ===============================
+[19:17:55] 
+[19:17:55]      sscanf plugin unloaded.    
+[19:17:55] 
+[19:17:55]  ===============================
+[19:17:55] 
+[19:17:55] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+[19:17:55] plugin.mysql: Unloading plugin...
+[19:17:55] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:17:59] 
+[19:17:59] Server Plugins
+[19:17:59] --------------
+[19:17:59]  Loading plugin: sscanf.dll
+[19:17:59] 
+[19:17:59]  ===============================
+[19:17:59] 
+[19:17:59]       sscanf plugin loaded.     
+[19:17:59] 
+[19:17:59]          Version: 2.13.1
+[19:17:59] 
+[19:17:59]    (c) 2022 Alex "Y_Less" Cole  
+[19:17:59] 
+[19:17:59]  ===============================
+[19:17:59] 
+[19:17:59]   Loaded.
+[19:17:59]  Loading plugin: streamer.dll
+[19:17:59] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[19:17:59]   Loaded.
+[19:17:59]  Loading plugin: mysql.dll
+[19:17:59]  >> plugin.mysql: R41-4 successfully loaded.
+[19:17:59]   Loaded.
+[19:17:59]  Loaded 3 plugins.
+
+[19:17:59] 
+[19:17:59] Filterscripts
+[19:17:59] ---------------
+[19:17:59]   Loaded 0 filterscripts.
+
+[19:17:59] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[19:17:59] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[19:17:59] 
+----------------------------------
+[19:17:59]   Bare Script
+
+[19:17:59] ----------------------------------
+
+[19:17:59] Number of vehicle models: 0
+[19:17:59] --- Server Shutting Down.
+[19:17:59] 
+[19:17:59]  ===============================
+[19:17:59] 
+[19:17:59]      sscanf plugin unloaded.    
+[19:17:59] 
+[19:17:59]  ===============================
+[19:17:59] 
+[19:17:59] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+[19:17:59] plugin.mysql: Unloading plugin...
+[19:17:59] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:17:59] 
+[19:17:59] Server Plugins
+[19:17:59] --------------
+[19:17:59]  Loading plugin: sscanf.dll
+[19:17:59] 
+[19:17:59]  ===============================
+[19:17:59] 
+[19:17:59]       sscanf plugin loaded.     
+[19:17:59] 
+[19:17:59]          Version: 2.13.1
+[19:17:59] 
+[19:17:59]    (c) 2022 Alex "Y_Less" Cole  
+[19:17:59] 
+[19:17:59]  ===============================
+[19:17:59] 
+[19:17:59]   Loaded.
+[19:17:59]  Loading plugin: streamer.dll
+[19:17:59] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[19:17:59]   Loaded.
+[19:17:59]  Loading plugin: mysql.dll
+[19:17:59]  >> plugin.mysql: R41-4 successfully loaded.
+[19:17:59]   Loaded.
+[19:17:59]  Loaded 3 plugins.
+
+[19:17:59] 
+[19:17:59] Filterscripts
+[19:17:59] ---------------
+[19:17:59]   Loaded 0 filterscripts.
+
+[19:17:59] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[19:17:59] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[19:17:59] 
+----------------------------------
+[19:17:59]   Bare Script
+
+[19:17:59] ----------------------------------
+
+[19:17:59] Number of vehicle models: 0
+[19:17:59] --- Server Shutting Down.
+[19:17:59] 
+[19:17:59]  ===============================
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:19:04] 
+[19:19:04] Server Plugins
+[19:19:04] --------------
+[19:19:04]  Loading plugin: sscanf.dll
+[19:19:04] 
+[19:19:04]  ===============================
+[19:19:04] 
+[19:19:04]       sscanf plugin loaded.     
+[19:19:04] 
+[19:19:04]          Version: 2.13.1
+[19:19:04] 
+[19:19:04]    (c) 2022 Alex "Y_Less" Cole  
+[19:19:04] 
+[19:19:04]  ===============================
+[19:19:04] 
+[19:19:04]   Loaded.
+[19:19:04]  Loading plugin: streamer.dll
+[19:19:04] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[19:19:04]   Loaded.
+[19:19:04]  Loading plugin: mysql.dll
+[19:19:04]  >> plugin.mysql: R41-4 successfully loaded.
+[19:19:04]   Loaded.
+[19:19:04]  Loaded 3 plugins.
+
+[19:19:04] 
+[19:19:04] Filterscripts
+[19:19:04] ---------------
+[19:19:04]   Loaded 0 filterscripts.
+
+[19:19:04] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[19:19:04] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[19:19:04] 
+----------------------------------
+[19:19:04]   Bare Script
+
+[19:19:04] ----------------------------------
+
+[19:19:04] Number of vehicle models: 0
+[19:19:04] --- Server Shutting Down.
+[19:19:04] 
+[19:19:04]  ===============================
+[19:19:04] 
+[19:19:04]      sscanf plugin unloaded.    
+[19:19:04] 
+[19:19:04]  ===============================
+[19:19:04] 
+[19:19:04] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+[19:19:04] plugin.mysql: Unloading plugin...
+[19:19:04] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:19:05] 
+[19:19:05] Server Plugins
+[19:19:05] --------------
+[19:19:05]  Loading plugin: sscanf.dll
+[19:19:05] 
+[19:19:05]  ===============================
+[19:19:05] 
+[19:19:05]       sscanf plugin loaded.     
+[19:19:05] 
+[19:19:05]          Version: 2.13.1
+[19:19:05] 
+[19:19:05]    (c) 2022 Alex "Y_Less" Cole  
+[19:19:05] 
+[19:19:05]  ===============================
+[19:19:05] 
+[19:19:05]   Loaded.
+[19:19:05]  Loading plugin: streamer.dll
+[19:19:05] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[19:19:05]   Loaded.
+[19:19:05]  Loading plugin: mysql.dll
+[19:19:05]  >> plugin.mysql: R41-4 successfully loaded.
+[19:19:05]   Loaded.
+[19:19:05]  Loaded 3 plugins.
+
+[19:19:05] 
+[19:19:05] Filterscripts
+[19:19:05] ---------------
+[19:19:05]   Loaded 0 filterscripts.
+
+[19:19:05] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[19:19:05] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[19:19:05] 
+----------------------------------
+[19:19:05]   Bare Script
+
+[19:19:05] ----------------------------------
+
+[19:19:05] Number of vehicle models: 0
+[19:19:05] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:22:34] 
+[19:22:34] Server Plugins
+[19:22:34] --------------
+[19:22:34]  Loading plugin: sscanf.dll
+[19:22:34] 
+[19:22:34]  ===============================
+[19:22:34] 
+[19:22:34]       sscanf plugin loaded.     
+[19:22:34] 
+[19:22:34]          Version: 2.13.1
+[19:22:34] 
+[19:22:34]    (c) 2022 Alex "Y_Less" Cole  
+[19:22:34] 
+[19:22:34]  ===============================
+[19:22:34] 
+[19:22:34]   Loaded.
+[19:22:34]  Loading plugin: streamer.dll
+[19:22:34] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[19:22:34]   Loaded.
+[19:22:34]  Loading plugin: mysql.dll
+[19:22:34]  >> plugin.mysql: R41-4 successfully loaded.
+[19:22:34]   Loaded.
+[19:22:34]  Loaded 3 plugins.
+
+[19:22:34] 
+[19:22:34] Filterscripts
+[19:22:34] ---------------
+[19:22:34]   Loaded 0 filterscripts.
+
+[19:22:34] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[19:22:34] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[19:22:34] 
+----------------------------------
+[19:22:34]   Bare Script
+
+[19:22:34] ----------------------------------
+
+[19:22:34] Number of vehicle models: 0
+[19:22:34] --- Server Shutting Down.
+[19:22:34] 
+[19:22:34]  ===============================
+[19:22:34] 
+[19:22:34]      sscanf plugin unloaded.    
+[19:22:34] 
+[19:22:34]  ===============================
+[19:22:34] 
+[19:22:34] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+[19:22:34] plugin.mysql: Unloading plugin...
+[19:22:34] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:22:35] 
+[19:22:35] Server Plugins
+[19:22:35] --------------
+[19:22:35]  Loading plugin: sscanf.dll
+[19:22:35] 
+[19:22:35]  ===============================
+[19:22:35] 
+[19:22:35]       sscanf plugin loaded.     
+[19:22:35] 
+[19:22:35]          Version: 2.13.1
+[19:22:35] 
+[19:22:35]    (c) 2022 Alex "Y_Less" Cole  
+[19:22:35] 
+[19:22:35]  ===============================
+[19:22:35] 
+[19:22:35]   Loaded.
+[19:22:35]  Loading plugin: streamer.dll
+[19:22:35] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[19:22:35]   Loaded.
+[19:22:35]  Loading plugin: mysql.dll
+[19:22:35]  >> plugin.mysql: R41-4 successfully loaded.
+[19:22:35]   Loaded.
+[19:22:35]  Loaded 3 plugins.
+
+[19:22:35] 
+[19:22:35] Filterscripts
+[19:22:35] ---------------
+[19:22:35]   Loaded 0 filterscripts.
+
+[19:22:35] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[19:22:35] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[19:22:35] 
+----------------------------------
+[19:22:35]   Bare Script
+
+[19:22:35] ----------------------------------
+
+[19:22:35] Number of vehicle models: 0
+[19:22:35] --- Server Shutting Down.
+[19:22:35] 
+[19:22:35]  ===============================
+[19:22:35] 
+[19:22:35]      sscanf plugin unloaded.    
+[19:22:35] 
+[19:22:35]  ===============================
+[19:22:35] 
+[19:22:35] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+[19:22:35] plugin.mysql: Unloading plugin...
+[19:22:35] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:22:35] 
+[19:22:35] Server Plugins
+[19:22:35] --------------
+[19:22:35]  Loading plugin: sscanf.dll
+[19:22:35] 
+[19:22:35]  ===============================
+[19:22:35] 
+[19:22:35]       sscanf plugin loaded.     
+[19:22:35] 
+[19:22:35]          Version: 2.13.1
+[19:22:35] 
+[19:22:35]    (c) 2022 Alex "Y_Less" Cole  
+[19:22:35] 
+[19:22:35]  ===============================
+[19:22:35] 
+[19:22:35]   Loaded.
+[19:22:35]  Loading plugin: streamer.dll
+[19:22:35] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[19:22:35]   Loaded.
+[19:22:35]  Loading plugin: mysql.dll
+[19:22:35]  >> plugin.mysql: R41-4 successfully loaded.
+[19:22:35]   Loaded.
+[19:22:35]  Loaded 3 plugins.
+
+[19:22:35] 
+[19:22:35] Filterscripts
+[19:22:35] ---------------
+[19:22:35]   Loaded 0 filterscripts.
+
+[19:22:35] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[19:22:35] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[19:22:35] 
+----------------------------------
+[19:22:35]   Bare Script
+
+[19:22:35] ----------------------------------
+
+[19:22:35] Number of vehicle models: 0
+[19:22:35] --- Server Shutting Down.
+[19:22:36] 
+[19:22:36]  ===============================
+[19:22:36] 
+[19:22:36]      sscanf plugin unloaded.    
+[19:22:36] 
+[19:22:36]  ===============================
+[19:22:36] 
+[19:22:36] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+[19:22:36] plugin.mysql: Unloading plugin...
+[19:22:36] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:22:36] 
+[19:22:36] Server Plugins
+[19:22:36] --------------
+[19:22:36]  Loading plugin: sscanf.dll
+[19:22:36] 
+[19:22:36]  ===============================
+[19:22:36] 
+[19:22:36]       sscanf plugin loaded.     
+[19:22:36] 
+[19:22:36]          Version: 2.13.1
+[19:22:36] 
+[19:22:36]    (c) 2022 Alex "Y_Less" Cole  
+[19:22:36] 
+[19:22:36]  ===============================
+[19:22:36] 
+[19:22:36]   Loaded.
+[19:22:36]  Loading plugin: streamer.dll
+[19:22:36] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[19:22:36]   Loaded.
+[19:22:36]  Loading plugin: mysql.dll
+[19:22:36]  >> plugin.mysql: R41-4 successfully loaded.
+[19:22:36]   Loaded.
+[19:22:36]  Loaded 3 plugins.
+
+[19:22:36] 
+[19:22:36] Filterscripts
+[19:22:36] ---------------
+[19:22:36]   Loaded 0 filterscripts.
+
+[19:22:36] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[19:22:36] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[19:22:36] 
+----------------------------------
+[19:22:36]   Bare Script
+
+[19:22:36] ----------------------------------
+
+[19:22:36] Number of vehicle models: 0
+[19:22:36] --- Server Shutting Down.
+[19:22:36] 
+[19:22:36]  ===============================
+[19:22:36] 
+[19:22:36]      sscanf plugin unloaded.    
+[19:22:36] 
+[19:22:36]  ===============================
+[19:22:36] 
+[19:22:36] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+[19:22:36] plugin.mysql: Unloading plugin...
+[19:22:36] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:22:37] 
+[19:22:37] Server Plugins
+[19:22:37] --------------
+[19:22:37]  Loading plugin: sscanf.dll
+[19:22:37] 
+[19:22:37]  ===============================
+[19:22:37] 
+[19:22:37]       sscanf plugin loaded.     
+[19:22:37] 
+[19:22:37]          Version: 2.13.1
+[19:22:37] 
+[19:22:37]    (c) 2022 Alex "Y_Less" Cole  
+[19:22:37] 
+[19:22:37]  ===============================
+[19:22:37] 
+[19:22:37]   Loaded.
+[19:22:37]  Loading plugin: streamer.dll
+[19:22:37] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[19:22:37]   Loaded.
+[19:22:37]  Loading plugin: mysql.dll
+[19:22:37]  >> plugin.mysql: R41-4 successfully loaded.
+[19:22:37]   Loaded.
+[19:22:37]  Loaded 3 plugins.
+
+[19:22:37] 
+[19:22:37] Filterscripts
+[19:22:37] ---------------
+[19:22:37]   Loaded 0 filterscripts.
+
+[19:22:37] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[19:22:37] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[19:22:37] 
+----------------------------------
+[19:22:37]   Bare Script
+
+[19:22:37] ----------------------------------
+
+[19:22:37] Number of vehicle models: 0
+[19:22:37] --- Server Shutting Down.
+[19:22:37] 
+[19:22:37]  ===============================
+[19:22:37] 
+[19:22:37]      sscanf plugin unloaded.    
+[19:22:37] 
+[19:22:37]  ===============================
+[19:22:37] 
+[19:22:37] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+[19:22:37] plugin.mysql: Unloading plugin...
+[19:22:37] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:22:38] 
+[19:22:38] Server Plugins
+[19:22:38] --------------
+[19:22:38]  Loading plugin: sscanf.dll
+[19:22:38] 
+[19:22:38]  ===============================
+[19:22:38] 
+[19:22:38]       sscanf plugin loaded.     
+[19:22:38] 
+[19:22:38]          Version: 2.13.1
+[19:22:38] 
+[19:22:38]    (c) 2022 Alex "Y_Less" Cole  
+[19:22:38] 
+[19:22:38]  ===============================
+[19:22:38] 
+[19:22:38]   Loaded.
+[19:22:38]  Loading plugin: streamer.dll
+[19:22:38] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[19:22:38]   Loaded.
+[19:22:38]  Loading plugin: mysql.dll
+[19:22:38]  >> plugin.mysql: R41-4 successfully loaded.
+[19:22:38]   Loaded.
+[19:22:38]  Loaded 3 plugins.
+
+[19:22:38] 
+[19:22:38] Filterscripts
+[19:22:38] ---------------
+[19:22:38]   Loaded 0 filterscripts.
+
+[19:22:38] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[19:22:38] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[19:22:38] 
+----------------------------------
+[19:22:38]   Bare Script
+
+[19:22:38] ----------------------------------
+
+[19:22:38] Number of vehicle models: 0
+[19:22:38] --- Server Shutting Down.
+[19:22:38] 
+[19:22:38]  ===============================
+[19:22:38] 
+[19:22:38]      sscanf plugin unloaded.    
+[19:22:38] 
+[19:22:38]  ===============================
+[19:22:38] 
+[19:22:38] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+[19:22:38] plugin.mysql: Unloading plugin...
+[19:22:38] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:22:38] 
+[19:22:38] Server Plugins
+[19:22:38] --------------
+[19:22:38]  Loading plugin: sscanf.dll
+[19:22:38] 
+[19:22:38]  ===============================
+[19:22:38] 
+[19:22:38]       sscanf plugin loaded.     
+[19:22:38] 
+[19:22:38]          Version: 2.13.1
+[19:22:38] 
+[19:22:38]    (c) 2022 Alex "Y_Less" Cole  
+[19:22:38] 
+[19:22:38]  ===============================
+[19:22:38] 
+[19:22:38]   Loaded.
+[19:22:38]  Loading plugin: streamer.dll
+[19:22:38] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[19:22:38]   Loaded.
+[19:22:38]  Loading plugin: mysql.dll
+[19:22:38]  >> plugin.mysql: R41-4 successfully loaded.
+[19:22:38]   Loaded.
+[19:22:38]  Loaded 3 plugins.
+
+[19:22:38] 
+[19:22:38] Filterscripts
+[19:22:38] ---------------
+[19:22:38]   Loaded 0 filterscripts.
+
+[19:22:38] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[19:22:38] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[19:22:38] 
+----------------------------------
+[19:22:38]   Bare Script
+
+[19:22:38] ----------------------------------
+
+[19:22:38] Number of vehicle models: 0
+[19:22:38] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:22:55] 
+[19:22:55] Server Plugins
+[19:22:55] --------------
+[19:22:55]  Loading plugin: sscanf.dll
+[19:22:55] 
+[19:22:55]  ===============================
+[19:22:55] 
+[19:22:55]       sscanf plugin loaded.     
+[19:22:55] 
+[19:22:55]          Version: 2.13.1
+[19:22:55] 
+[19:22:55]    (c) 2022 Alex "Y_Less" Cole  
+[19:22:55] 
+[19:22:55]  ===============================
+[19:22:55] 
+[19:22:55]   Loaded.
+[19:22:55]  Loading plugin: streamer.dll
+[19:22:55] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[19:22:55]   Loaded.
+[19:22:55]  Loading plugin: mysql.dll
+[19:22:55]  >> plugin.mysql: R41-4 successfully loaded.
+[19:22:55]   Loaded.
+[19:22:55]  Loaded 3 plugins.
+
+[19:22:55] 
+[19:22:55] Filterscripts
+[19:22:55] ---------------
+[19:22:55]   Loaded 0 filterscripts.
+
+[19:22:55] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[19:22:55] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[19:22:55] 
+----------------------------------
+[19:22:55]   Bare Script
+
+[19:22:55] ----------------------------------
+
+[19:22:55] Number of vehicle models: 0
+[19:22:55] --- Server Shutting Down.
+[19:22:55] 
+[19:22:55]  ===============================
+[19:22:55] 
+[19:22:55]      sscanf plugin unloaded.    
+[19:22:55] 
+[19:22:55]  ===============================
+[19:22:55] 
+[19:22:55] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+[19:22:55] plugin.mysql: Unloading plugin...
+[19:22:55] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:22:56] 
+[19:22:56] Server Plugins
+[19:22:56] --------------
+[19:22:56]  Loading plugin: sscanf.dll
+[19:22:56] 
+[19:22:56]  ===============================
+[19:22:56] 
+[19:22:56]       sscanf plugin loaded.     
+[19:22:56] 
+[19:22:56]          Version: 2.13.1
+[19:22:56] 
+[19:22:56]    (c) 2022 Alex "Y_Less" Cole  
+[19:22:56] 
+[19:22:56]  ===============================
+[19:22:56] 
+[19:22:56]   Loaded.
+[19:22:56]  Loading plugin: streamer.dll
+[19:22:56] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[19:22:56]   Loaded.
+[19:22:56]  Loading plugin: mysql.dll
+[19:22:56]  >> plugin.mysql: R41-4 successfully loaded.
+[19:22:56]   Loaded.
+[19:22:56]  Loaded 3 plugins.
+
+[19:22:56] 
+[19:22:56] Filterscripts
+[19:22:56] ---------------
+[19:22:56]   Loaded 0 filterscripts.
+
+[19:22:56] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[19:23:11] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[19:23:11] 
+----------------------------------
+[19:23:11]   Bare Script
+
+[19:23:11] ----------------------------------
+
+[19:23:11] Number of vehicle models: 0
+[19:23:11] --- Server Shutting Down.
+[19:23:11] 
+[19:23:11]  ===============================
+[19:23:11] 
+[19:23:11]      sscanf plugin unloaded.    
+[19:23:11] 
+[19:23:11]  ===============================
+[19:23:11] 
+[19:23:11] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+[19:23:11] plugin.mysql: Unloading plugin...
+[19:23:11] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:25:03] 
+[19:25:03] Server Plugins
+[19:25:03] --------------
+[19:25:03]  Loading plugin: sscanf.dll
+[19:25:03] 
+[19:25:03]  ===============================
+[19:25:03] 
+[19:25:03]       sscanf plugin loaded.     
+[19:25:03] 
+[19:25:03]          Version: 2.13.1
+[19:25:03] 
+[19:25:03]    (c) 2022 Alex "Y_Less" Cole  
+[19:25:03] 
+[19:25:03]  ===============================
+[19:25:03] 
+[19:25:03]   Loaded.
+[19:25:03]  Loading plugin: streamer.dll
+[19:25:03] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[19:25:03]   Loaded.
+[19:25:03]  Loading plugin: mysql.dll
+[19:25:03]  >> plugin.mysql: R41-4 successfully loaded.
+[19:25:03]   Loaded.
+[19:25:03]  Loaded 3 plugins.
+
+[19:25:03] 
+[19:25:03] Filterscripts
+[19:25:03] ---------------
+[19:25:03]   Loaded 0 filterscripts.
+
+[19:25:03] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[19:25:03] 
+----------------------------------
+[19:25:03]   Bare Script
+
+[19:25:03] ----------------------------------
+
+[19:25:03] Number of vehicle models: 0
+[19:25:03] --- Server Shutting Down.
+[19:25:03] 
+[19:25:03]  ===============================
+[19:25:03] 
+[19:25:03]      sscanf plugin unloaded.    
+[19:25:03] 
+[19:25:03]  ===============================
+[19:25:03] 
+[19:25:03] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+[19:25:03] plugin.mysql: Unloading plugin...
+[19:25:03] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:25:04] 
+[19:25:04] Server Plugins
+[19:25:04] --------------
+[19:25:04]  Loading plugin: sscanf.dll
+[19:25:04] 
+[19:25:04]  ===============================
+[19:25:04] 
+[19:25:04]       sscanf plugin loaded.     
+[19:25:04] 
+[19:25:04]          Version: 2.13.1
+[19:25:04] 
+[19:25:04]    (c) 2022 Alex "Y_Less" Cole  
+[19:25:04] 
+[19:25:04]  ===============================
+[19:25:04] 
+[19:25:04]   Loaded.
+[19:25:04]  Loading plugin: streamer.dll
+[19:25:04] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[19:25:04]   Loaded.
+[19:25:04]  Loading plugin: mysql.dll
+[19:25:04]  >> plugin.mysql: R41-4 successfully loaded.
+[19:25:04]   Loaded.
+[19:25:04]  Loaded 3 plugins.
+
+[19:25:04] 
+[19:25:04] Filterscripts
+[19:25:04] ---------------
+[19:25:04]   Loaded 0 filterscripts.
+
+[19:25:04] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[19:25:04] 
+----------------------------------
+[19:25:04]   Bare Script
+
+[19:25:04] ----------------------------------
+
+[19:25:04] Number of vehicle models: 0
+[19:25:04] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:25:17] 
+[19:25:17] Server Plugins
+[19:25:17] --------------
+[19:25:17]  Loading plugin: sscanf.dll
+[19:25:17] 
+[19:25:17]  ===============================
+[19:25:17] 
+[19:25:17]       sscanf plugin loaded.     
+[19:25:17] 
+[19:25:17]          Version: 2.13.1
+[19:25:17] 
+[19:25:17]    (c) 2022 Alex "Y_Less" Cole  
+[19:25:17] 
+[19:25:17]  ===============================
+[19:25:17] 
+[19:25:17]   Loaded.
+[19:25:17]  Loading plugin: streamer.dll
+[19:25:17] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[19:25:17]   Loaded.
+[19:25:17]  Loading plugin: mysql.dll
+[19:25:17]  >> plugin.mysql: R41-4 successfully loaded.
+[19:25:17]   Loaded.
+[19:25:17]  Loaded 3 plugins.
+
+[19:25:17] 
+[19:25:17] Filterscripts
+[19:25:17] ---------------
+[19:25:17]   Loaded 0 filterscripts.
+
+[19:25:17] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[19:25:17] 
+----------------------------------
+[19:25:17]   Bare Script
+
+[19:25:17] ----------------------------------
+
+[19:25:17] Number of vehicle models: 0
+[19:25:17] --- Server Shutting Down.
+[19:25:17] 
+[19:25:17]  ===============================
+[19:25:17] 
+[19:25:17]      sscanf plugin unloaded.    
+[19:25:17] 
+[19:25:17]  ===============================
+[19:25:17] 
+[19:25:17] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+[19:25:17] plugin.mysql: Unloading plugin...
+[19:25:17] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:25:18] 
+[19:25:18] Server Plugins
+[19:25:18] --------------
+[19:25:18]  Loading plugin: sscanf.dll
+[19:25:18] 
+[19:25:18]  ===============================
+[19:25:18] 
+[19:25:18]       sscanf plugin loaded.     
+[19:25:18] 
+[19:25:18]          Version: 2.13.1
+[19:25:18] 
+[19:25:18]    (c) 2022 Alex "Y_Less" Cole  
+[19:25:18] 
+[19:25:18]  ===============================
+[19:25:18] 
+[19:25:18]   Loaded.
+[19:25:18]  Loading plugin: streamer.dll
+[19:25:18] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[19:25:18]   Loaded.
+[19:25:18]  Loading plugin: mysql.dll
+[19:25:18]  >> plugin.mysql: R41-4 successfully loaded.
+[19:25:18]   Loaded.
+[19:25:18]  Loaded 3 plugins.
+
+[19:25:18] 
+[19:25:18] Filterscripts
+[19:25:18] ---------------
+[19:25:18]   Loaded 0 filterscripts.
+
+[19:25:18] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[19:25:18] 
+----------------------------------
+[19:25:18]   Bare Script
+
+[19:25:18] ----------------------------------
+
+[19:25:18] Number of vehicle models: 0
+[19:25:18] --- Server Shutting Down.
+[19:25:18] 
+[19:25:18]  ===============================
+[19:25:18] 
+[19:25:18]      sscanf plugin unloaded.    
+[19:25:18] 
+[19:25:18]  ===============================
+[19:25:18] 
+[19:25:18] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+[19:25:18] plugin.mysql: Unloading plugin...
+[19:25:18] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:25:18] 
+[19:25:18] Server Plugins
+[19:25:18] --------------
+[19:25:18]  Loading plugin: sscanf.dll
+[19:25:18] 
+[19:25:18]  ===============================
+[19:25:18] 
+[19:25:18]       sscanf plugin loaded.     
+[19:25:18] 
+[19:25:18]          Version: 2.13.1
+[19:25:18] 
+[19:25:18]    (c) 2022 Alex "Y_Less" Cole  
+[19:25:18] 
+[19:25:18]  ===============================
+[19:25:18] 
+[19:25:18]   Loaded.
+[19:25:18]  Loading plugin: streamer.dll
+[19:25:18] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[19:25:18]   Loaded.
+[19:25:18]  Loading plugin: mysql.dll
+[19:25:18]  >> plugin.mysql: R41-4 successfully loaded.
+[19:25:18]   Loaded.
+[19:25:18]  Loaded 3 plugins.
+
+[19:25:18] 
+[19:25:18] Filterscripts
+[19:25:18] ---------------
+[19:25:18]   Loaded 0 filterscripts.
+
+[19:25:18] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[19:25:18] 
+----------------------------------
+[19:25:18]   Bare Script
+
+[19:25:18] ----------------------------------
+
+[19:25:18] Number of vehicle models: 0
+[19:25:18] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:26:19] 
+[19:26:19] Server Plugins
+[19:26:19] --------------
+[19:26:19]  Loading plugin: sscanf.dll
+[19:26:19] 
+[19:26:19]  ===============================
+[19:26:19] 
+[19:26:19]       sscanf plugin loaded.     
+[19:26:19] 
+[19:26:19]          Version: 2.13.1
+[19:26:19] 
+[19:26:19]    (c) 2022 Alex "Y_Less" Cole  
+[19:26:19] 
+[19:26:19]  ===============================
+[19:26:19] 
+[19:26:19]   Loaded.
+[19:26:19]  Loading plugin: streamer.dll
+[19:26:19] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[19:26:19]   Loaded.
+[19:26:19]  Loading plugin: mysql.dll
+[19:26:19]  >> plugin.mysql: R41-4 successfully loaded.
+[19:26:19]   Loaded.
+[19:26:19]  Loaded 3 plugins.
+
+[19:26:19] 
+[19:26:19] Filterscripts
+[19:26:19] ---------------
+[19:26:19]   Loaded 0 filterscripts.
+
+[19:26:19] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[19:26:19] 
+----------------------------------
+[19:26:19]   Bare Script
+
+[19:26:19] ----------------------------------
+
+[19:26:19] Number of vehicle models: 0
+[19:26:19] --- Server Shutting Down.
+[19:26:19] 
+[19:26:19]  ===============================
+[19:26:19] 
+[19:26:19]      sscanf plugin unloaded.    
+[19:26:19] 
+[19:26:19]  ===============================
+[19:26:19] 
+[19:26:19] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+[19:26:19] plugin.mysql: Unloading plugin...
+[19:26:19] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:26:20] 
+[19:26:20] Server Plugins
+[19:26:20] --------------
+[19:26:20]  Loading plugin: sscanf.dll
+[19:26:20] 
+[19:26:20]  ===============================
+[19:26:20] 
+[19:26:20]       sscanf plugin loaded.     
+[19:26:20] 
+[19:26:20]          Version: 2.13.1
+[19:26:20] 
+[19:26:20]    (c) 2022 Alex "Y_Less" Cole  
+[19:26:20] 
+[19:26:20]  ===============================
+[19:26:20] 
+[19:26:20]   Loaded.
+[19:26:20]  Loading plugin: streamer.dll
+[19:26:20] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[19:26:20]   Loaded.
+[19:26:20]  Loading plugin: mysql.dll
+[19:26:20]  >> plugin.mysql: R41-4 successfully loaded.
+[19:26:20]   Loaded.
+[19:26:20]  Loaded 3 plugins.
+
+[19:26:20] 
+[19:26:20] Filterscripts
+[19:26:20] ---------------
+[19:26:20]   Loaded 0 filterscripts.
+
+[19:26:20] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[19:26:20] 
+----------------------------------
+[19:26:20]   Bare Script
+
+[19:26:20] ----------------------------------
+
+[19:26:20] Number of vehicle models: 0
+[19:26:20] --- Server Shutting Down.
+[19:26:20] 
+[19:26:20]  ===============================
+[19:26:20] 
+[19:26:20]      sscanf plugin unloaded.    
+[19:26:20] 
+[19:26:20]  ===============================
+[19:26:20] 
+[19:26:20] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+[19:26:20] plugin.mysql: Unloading plugin...
+[19:26:20] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:26:20] 
+[19:26:20] Server Plugins
+[19:26:20] --------------
+[19:26:20]  Loading plugin: sscanf.dll
+[19:26:20] 
+[19:26:20]  ===============================
+[19:26:20] 
+[19:26:20]       sscanf plugin loaded.     
+[19:26:20] 
+[19:26:20]          Version: 2.13.1
+[19:26:20] 
+[19:26:20]    (c) 2022 Alex "Y_Less" Cole  
+[19:26:20] 
+[19:26:20]  ===============================
+[19:26:20] 
+[19:26:20]   Loaded.
+[19:26:20]  Loading plugin: streamer.dll
+[19:26:20] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[19:26:20]   Loaded.
+[19:26:20]  Loading plugin: mysql.dll
+[19:26:20]  >> plugin.mysql: R41-4 successfully loaded.
+[19:26:20]   Loaded.
+[19:26:20]  Loaded 3 plugins.
+
+[19:26:20] 
+[19:26:20] Filterscripts
+[19:26:20] ---------------
+[19:26:20]   Loaded 0 filterscripts.
+
+[19:26:20] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[19:26:20] 
+----------------------------------
+[19:26:20]   Bare Script
+
+[19:26:20] ----------------------------------
+
+[19:26:20] Number of vehicle models: 0
+[19:26:20] --- Server Shutting Down.
+[19:26:20] 
+[19:26:20]  ===============================
+[19:26:20] 
+[19:26:20]      sscanf plugin unloaded.    
+[19:26:20] 
+[19:26:20]  ===============================
+[19:26:20] 
+[19:26:20] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+[19:26:20] plugin.mysql: Unloading plugin...
+[19:26:20] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:26:21] 
+[19:26:21] Server Plugins
+[19:26:21] --------------
+[19:26:21]  Loading plugin: sscanf.dll
+[19:26:21] 
+[19:26:21]  ===============================
+[19:26:21] 
+[19:26:21]       sscanf plugin loaded.     
+[19:26:21] 
+[19:26:21]          Version: 2.13.1
+[19:26:21] 
+[19:26:21]    (c) 2022 Alex "Y_Less" Cole  
+[19:26:21] 
+[19:26:21]  ===============================
+[19:26:21] 
+[19:26:21]   Loaded.
+[19:26:21]  Loading plugin: streamer.dll
+[19:26:21] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[19:26:21]   Loaded.
+[19:26:21]  Loading plugin: mysql.dll
+[19:26:21]  >> plugin.mysql: R41-4 successfully loaded.
+[19:26:21]   Loaded.
+[19:26:21]  Loaded 3 plugins.
+
+[19:26:21] 
+[19:26:21] Filterscripts
+[19:26:21] ---------------
+[19:26:21]   Loaded 0 filterscripts.
+
+[19:26:21] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[19:26:21] 
+----------------------------------
+[19:26:21]   Bare Script
+
+[19:26:21] ----------------------------------
+
+[19:26:21] Number of vehicle models: 0
+[19:26:21] --- Server Shutting Down.
+[19:26:21] 
+[19:26:21]  ===============================
+[19:26:21] 
+[19:26:21]      sscanf plugin unloaded.    
+[19:26:21] 
+[19:26:21]  ===============================
+[19:26:21] 
+[19:26:21] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+[19:26:21] plugin.mysql: Unloading plugin...
+[19:26:21] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:26:21] 
+[19:26:21] Server Plugins
+[19:26:21] --------------
+[19:26:21]  Loading plugin: sscanf.dll
+[19:26:21] 
+[19:26:21]  ===============================
+[19:26:21] 
+[19:26:21]       sscanf plugin loaded.     
+[19:26:21] 
+[19:26:21]          Version: 2.13.1
+[19:26:21] 
+[19:26:21]    (c) 2022 Alex "Y_Less" Cole  
+[19:26:21] 
+[19:26:21]  ===============================
+[19:26:21] 
+[19:26:21]   Loaded.
+[19:26:21]  Loading plugin: streamer.dll
+[19:26:21] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[19:26:21]   Loaded.
+[19:26:21]  Loading plugin: mysql.dll
+[19:26:21]  >> plugin.mysql: R41-4 successfully loaded.
+[19:26:21]   Loaded.
+[19:26:21]  Loaded 3 plugins.
+
+[19:26:21] 
+[19:26:21] Filterscripts
+[19:26:21] ---------------
+[19:26:21]   Loaded 0 filterscripts.
+
+[19:26:21] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[19:26:21] 
+----------------------------------
+[19:26:21]   Bare Script
+
+[19:26:21] ----------------------------------
+
+[19:26:21] Number of vehicle models: 0
+[19:26:21] --- Server Shutting Down.
+[19:26:21] 
+[19:26:21]  ===============================
+[19:26:21] 
+[19:26:21]      sscanf plugin unloaded.    
+[19:26:21] 
+[19:26:21]  ===============================
+[19:26:21] 
+[19:26:21] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+[19:26:21] plugin.mysql: Unloading plugin...
+[19:26:21] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:26:21] 
+[19:26:21] Server Plugins
+[19:26:21] --------------
+[19:26:21]  Loading plugin: sscanf.dll
+[19:26:21] 
+[19:26:21]  ===============================
+[19:26:21] 
+[19:26:21]       sscanf plugin loaded.     
+[19:26:21] 
+[19:26:21]          Version: 2.13.1
+[19:26:21] 
+[19:26:21]    (c) 2022 Alex "Y_Less" Cole  
+[19:26:21] 
+[19:26:21]  ===============================
+[19:26:21] 
+[19:26:21]   Loaded.
+[19:26:21]  Loading plugin: streamer.dll
+[19:26:21] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[19:26:21]   Loaded.
+[19:26:21]  Loading plugin: mysql.dll
+[19:26:21]  >> plugin.mysql: R41-4 successfully loaded.
+[19:26:21]   Loaded.
+[19:26:21]  Loaded 3 plugins.
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:26:53] 
+[19:26:53] Server Plugins
+[19:26:53] --------------
+[19:26:53]  Loading plugin: sscanf.dll
+[19:26:53] 
+[19:26:53]  ===============================
+[19:26:53] 
+[19:26:53]       sscanf plugin loaded.     
+[19:26:53] 
+[19:26:53]          Version: 2.13.1
+[19:26:53] 
+[19:26:53]    (c) 2022 Alex "Y_Less" Cole  
+[19:26:53] 
+[19:26:53]  ===============================
+[19:26:53] 
+[19:26:53]   Loaded.
+[19:26:53]  Loading plugin: streamer.dll
+[19:26:53] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[19:26:53]   Loaded.
+[19:26:53]  Loading plugin: mysql.dll
+[19:26:53]  >> plugin.mysql: R41-4 successfully loaded.
+[19:26:53]   Loaded.
+[19:26:53]  Loaded 3 plugins.
+
+[19:26:53] 
+[19:26:53] Filterscripts
+[19:26:53] ---------------
+[19:26:53]   Loaded 0 filterscripts.
+
+[19:26:53] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[19:26:53] 
+----------------------------------
+[19:26:53]   Bare Script
+
+[19:26:53] ----------------------------------
+
+[19:26:53] Number of vehicle models: 0
+[19:26:53] --- Server Shutting Down.
+[19:26:53] 
+[19:26:53]  ===============================
+[19:26:53] 
+[19:26:53]      sscanf plugin unloaded.    
+[19:26:53] 
+[19:26:53]  ===============================
+[19:26:53] 
+[19:26:53] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+[19:26:53] plugin.mysql: Unloading plugin...
+[19:26:53] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:26:53] 
+[19:26:53] Server Plugins
+[19:26:53] --------------
+[19:26:53]  Loading plugin: sscanf.dll
+[19:26:53] 
+[19:26:53]  ===============================
+[19:26:53] 
+[19:26:53]       sscanf plugin loaded.     
+[19:26:53] 
+[19:26:53]          Version: 2.13.1
+[19:26:53] 
+[19:26:53]    (c) 2022 Alex "Y_Less" Cole  
+[19:26:53] 
+[19:26:53]  ===============================
+[19:26:53] 
+[19:26:53]   Loaded.
+[19:26:53]  Loading plugin: streamer.dll
+[19:26:53] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[19:26:53]   Loaded.
+[19:26:53]  Loading plugin: mysql.dll
+[19:26:53]  >> plugin.mysql: R41-4 successfully loaded.
+[19:26:53]   Loaded.
+[19:26:53]  Loaded 3 plugins.
+
+[19:26:53] 
+[19:26:53] Filterscripts
+[19:26:53] ---------------
+[19:26:53]   Loaded 0 filterscripts.
+
+[19:26:53] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[19:26:53] 
+----------------------------------
+[19:26:53]   Bare Script
+
+[19:26:53] ----------------------------------
+
+[19:26:53] Number of vehicle models: 0
+[19:26:53] --- Server Shutting Down.
+[19:26:53] 
+[19:26:53]  ===============================
+[19:26:53] 
+[19:26:53]      sscanf plugin unloaded.    
+[19:26:53] 
+[19:26:53]  ===============================
+[19:26:53] 
+[19:26:53] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+[19:26:53] plugin.mysql: Unloading plugin...
+[19:26:53] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:26:54] 
+[19:26:54] Server Plugins
+[19:26:54] --------------
+[19:26:54]  Loading plugin: sscanf.dll
+[19:26:54] 
+[19:26:54]  ===============================
+[19:26:54] 
+[19:26:54]       sscanf plugin loaded.     
+[19:26:54] 
+[19:26:54]          Version: 2.13.1
+[19:26:54] 
+[19:26:54]    (c) 2022 Alex "Y_Less" Cole  
+[19:26:54] 
+[19:26:54]  ===============================
+[19:26:54] 
+[19:26:54]   Loaded.
+[19:26:54]  Loading plugin: streamer.dll
+[19:26:54] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[19:26:54]   Loaded.
+[19:26:54]  Loading plugin: mysql.dll
+[19:26:54]  >> plugin.mysql: R41-4 successfully loaded.
+[19:26:54]   Loaded.
+[19:26:54]  Loaded 3 plugins.
+
+[19:26:54] 
+[19:26:54] Filterscripts
+[19:26:54] ---------------
+[19:26:54]   Loaded 0 filterscripts.
+
+[19:26:54] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[19:26:54] 
+----------------------------------
+[19:26:54]   Bare Script
+
+[19:26:54] ----------------------------------
+
+[19:26:54] Number of vehicle models: 0
+[19:26:54] --- Server Shutting Down.
+[19:26:54] 
+[19:26:54]  ===============================
+[19:26:54] 
+[19:26:54]      sscanf plugin unloaded.    
+[19:26:54] 
+[19:26:54]  ===============================
+[19:26:54] 
+[19:26:54] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+[19:26:54] plugin.mysql: Unloading plugin...
+[19:26:54] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:26:55] 
+[19:26:55] Server Plugins
+[19:26:55] --------------
+[19:26:55]  Loading plugin: sscanf.dll
+[19:26:55] 
+[19:26:55]  ===============================
+[19:26:55] 
+[19:26:55]       sscanf plugin loaded.     
+[19:26:55] 
+[19:26:55]          Version: 2.13.1
+[19:26:55] 
+[19:26:55]    (c) 2022 Alex "Y_Less" Cole  
+[19:26:55] 
+[19:26:55]  ===============================
+[19:26:55] 
+[19:26:55]   Loaded.
+[19:26:55]  Loading plugin: streamer.dll
+[19:26:55] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[19:26:55]   Loaded.
+[19:26:55]  Loading plugin: mysql.dll
+[19:26:55]  >> plugin.mysql: R41-4 successfully loaded.
+[19:26:55]   Loaded.
+[19:26:55]  Loaded 3 plugins.
+
+[19:26:55] 
+[19:26:55] Filterscripts
+[19:26:55] ---------------
+[19:26:55]   Loaded 0 filterscripts.
+
+[19:26:55] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[19:26:55] 
+----------------------------------
+[19:26:55]   Bare Script
+
+[19:26:55] ----------------------------------
+
+[19:26:55] Number of vehicle models: 0
+[19:26:55] --- Server Shutting Down.
+[19:26:55] 
+[19:26:55]  ===============================
+[19:26:55] 
+[19:26:55]      sscanf plugin unloaded.    
+[19:26:55] 
+[19:26:55]  ===============================
+[19:26:55] 
+[19:26:55] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+[19:26:55] plugin.mysql: Unloading plugin...
+[19:26:55] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:26:55] 
+[19:26:55] Server Plugins
+[19:26:55] --------------
+[19:26:55]  Loading plugin: sscanf.dll
+[19:26:55] 
+[19:26:55]  ===============================
+[19:26:55] 
+[19:26:55]       sscanf plugin loaded.     
+[19:26:55] 
+[19:26:55]          Version: 2.13.1
+[19:26:55] 
+[19:26:55]    (c) 2022 Alex "Y_Less" Cole  
+[19:26:55] 
+[19:26:55]  ===============================
+[19:26:55] 
+[19:26:55]   Loaded.
+[19:26:55]  Loading plugin: streamer.dll
+[19:26:55] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[19:26:55]   Loaded.
+[19:26:55]  Loading plugin: mysql.dll
+[19:26:55]  >> plugin.mysql: R41-4 successfully loaded.
+[19:26:55]   Loaded.
+[19:26:55]  Loaded 3 plugins.
+
+[19:26:55] 
+[19:26:55] Filterscripts
+[19:26:55] ---------------
+[19:26:55]   Loaded 0 filterscripts.
+
+[19:26:55] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[19:26:55] 
+----------------------------------
+[19:26:55]   Bare Script
+
+[19:26:55] ----------------------------------
+
+[19:26:55] Number of vehicle models: 0
+[19:26:55] --- Server Shutting Down.
+[19:26:55] 
+[19:26:55]  ===============================
+[19:26:55] 
+[19:26:55]      sscanf plugin unloaded.    
+[19:26:55] 
+[19:26:55]  ===============================
+[19:26:55] 
+[19:26:55] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+[19:26:55] plugin.mysql: Unloading plugin...
+[19:26:55] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:27:00] 
+[19:27:00] Server Plugins
+[19:27:00] --------------
+[19:27:00]  Loading plugin: sscanf.dll
+[19:27:00] 
+[19:27:00]  ===============================
+[19:27:00] 
+[19:27:00]       sscanf plugin loaded.     
+[19:27:00] 
+[19:27:00]          Version: 2.13.1
+[19:27:00] 
+[19:27:00]    (c) 2022 Alex "Y_Less" Cole  
+[19:27:00] 
+[19:27:00]  ===============================
+[19:27:00] 
+[19:27:00]   Loaded.
+[19:27:00]  Loading plugin: streamer.dll
+[19:27:00] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[19:27:00]   Loaded.
+[19:27:00]  Loading plugin: mysql.dll
+[19:27:00]  >> plugin.mysql: R41-4 successfully loaded.
+[19:27:00]   Loaded.
+[19:27:00]  Loaded 3 plugins.
+
+[19:27:00] 
+[19:27:00] Filterscripts
+[19:27:00] ---------------
+[19:27:00]   Loaded 0 filterscripts.
+
+[19:27:00] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[19:27:00] 
+----------------------------------
+[19:27:00]   Bare Script
+
+[19:27:00] ----------------------------------
+
+[19:27:00] Number of vehicle models: 0
+[19:27:00] --- Server Shutting Down.
+[19:27:00] 
+[19:27:00]  ===============================
+[19:27:00] 
+[19:27:00]      sscanf plugin unloaded.    
+[19:27:00] 
+[19:27:00]  ===============================
+[19:27:00] 
+[19:27:00] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+[19:27:00] plugin.mysql: Unloading plugin...
+[19:27:00] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:27:01] 
+[19:27:01] Server Plugins
+[19:27:01] --------------
+[19:27:01]  Loading plugin: sscanf.dll
+[19:27:01] 
+[19:27:01]  ===============================
+[19:27:01] 
+[19:27:01]       sscanf plugin loaded.     
+[19:27:01] 
+[19:27:01]          Version: 2.13.1
+[19:27:01] 
+[19:27:01]    (c) 2022 Alex "Y_Less" Cole  
+[19:27:01] 
+[19:27:01]  ===============================
+[19:27:01] 
+[19:27:01]   Loaded.
+[19:27:01]  Loading plugin: streamer.dll
+[19:27:01] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[19:27:01]   Loaded.
+[19:27:01]  Loading plugin: mysql.dll
+[19:27:01]  >> plugin.mysql: R41-4 successfully loaded.
+[19:27:01]   Loaded.
+[19:27:01]  Loaded 3 plugins.
+
+[19:27:01] 
+[19:27:01] Filterscripts
+[19:27:01] ---------------
+[19:27:01]   Loaded 0 filterscripts.
+
+[19:27:01] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[19:27:01] 
+----------------------------------
+[19:27:01]   Bare Script
+
+[19:27:01] ----------------------------------
+
+[19:27:01] Number of vehicle models: 0
+[19:27:01] --- Server Shutting Down.
+[19:27:01] 
+[19:27:01]  ===============================
+[19:27:01] 
+[19:27:01]      sscanf plugin unloaded.    
+[19:27:01] 
+[19:27:01]  ===============================
+[19:27:01] 
+[19:27:01] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+[19:27:01] plugin.mysql: Unloading plugin...
+[19:27:01] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:27:02] 
+[19:27:02] Server Plugins
+[19:27:02] --------------
+[19:27:02]  Loading plugin: sscanf.dll
+[19:27:02] 
+[19:27:02]  ===============================
+[19:27:02] 
+[19:27:02]       sscanf plugin loaded.     
+[19:27:02] 
+[19:27:02]          Version: 2.13.1
+[19:27:02] 
+[19:27:02]    (c) 2022 Alex "Y_Less" Cole  
+[19:27:02] 
+[19:27:02]  ===============================
+[19:27:02] 
+[19:27:02]   Loaded.
+[19:27:02]  Loading plugin: streamer.dll
+[19:27:02] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[19:27:02]   Loaded.
+[19:27:02]  Loading plugin: mysql.dll
+[19:27:02]  >> plugin.mysql: R41-4 successfully loaded.
+[19:27:02]   Loaded.
+[19:27:02]  Loaded 3 plugins.
+
+[19:27:02] 
+[19:27:02] Filterscripts
+[19:27:02] ---------------
+[19:27:02]   Loaded 0 filterscripts.
+
+[19:27:02] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[19:27:02] 
+----------------------------------
+[19:27:02]   Bare Script
+
+[19:27:02] ----------------------------------
+
+[19:27:02] Number of vehicle models: 0
+[19:27:02] --- Server Shutting Down.
+[19:27:02] 
+[19:27:02]  ===============================
+[19:27:02] 
+[19:27:02]      sscanf plugin unloaded.    
+[19:27:02] 
+[19:27:02]  ===============================
+[19:27:02] 
+[19:27:02] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+[19:27:02] plugin.mysql: Unloading plugin...
+[19:27:02] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:27:02] 
+[19:27:02] Server Plugins
+[19:27:02] --------------
+[19:27:02]  Loading plugin: sscanf.dll
+[19:27:02] 
+[19:27:02]  ===============================
+[19:27:02] 
+[19:27:02]       sscanf plugin loaded.     
+[19:27:02] 
+[19:27:02]          Version: 2.13.1
+[19:27:02] 
+[19:27:02]    (c) 2022 Alex "Y_Less" Cole  
+[19:27:02] 
+[19:27:02]  ===============================
+[19:27:02] 
+[19:27:02]   Loaded.
+[19:27:02]  Loading plugin: streamer.dll
+[19:27:02] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[19:27:02]   Loaded.
+[19:27:02]  Loading plugin: mysql.dll
+[19:27:02]  >> plugin.mysql: R41-4 successfully loaded.
+[19:27:02]   Loaded.
+[19:27:02]  Loaded 3 plugins.
+
+[19:27:02] 
+[19:27:02] Filterscripts
+[19:27:02] ---------------
+[19:27:02]   Loaded 0 filterscripts.
+
+[19:27:02] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[19:27:02] 
+----------------------------------
+[19:27:02]   Bare Script
+
+[19:27:02] ----------------------------------
+
+[19:27:02] Number of vehicle models: 0
+[19:27:02] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:27:55] 
+[19:27:55] Server Plugins
+[19:27:55] --------------
+[19:27:55]  Loading plugin: sscanf.dll
+[19:27:55] 
+[19:27:55]  ===============================
+[19:27:55] 
+[19:27:55]       sscanf plugin loaded.     
+[19:27:55] 
+[19:27:55]          Version: 2.13.1
+[19:27:55] 
+[19:27:55]    (c) 2022 Alex "Y_Less" Cole  
+[19:27:55] 
+[19:27:55]  ===============================
+[19:27:55] 
+[19:27:55]   Loaded.
+[19:27:55]  Loading plugin: streamer.dll
+[19:27:55] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[19:27:55]   Loaded.
+[19:27:55]  Loading plugin: mysql.dll
+[19:27:55]  >> plugin.mysql: R41-4 successfully loaded.
+[19:27:55]   Loaded.
+[19:27:55]  Loaded 3 plugins.
+
+[19:27:55] 
+[19:27:55] Filterscripts
+[19:27:55] ---------------
+[19:27:55]   Loaded 0 filterscripts.
+
+[19:27:55] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[19:27:55] 
+----------------------------------
+[19:27:55]   Bare Script
+
+[19:27:55] ----------------------------------
+
+[19:27:55] Number of vehicle models: 0
+[19:27:55] --- Server Shutting Down.
+[19:27:55] 
+[19:27:55]  ===============================
+[19:27:55] 
+[19:27:55]      sscanf plugin unloaded.    
+[19:27:55] 
+[19:27:55]  ===============================
+[19:27:55] 
+[19:27:55] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+[19:27:55] plugin.mysql: Unloading plugin...
+[19:27:55] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:27:55] 
+[19:27:55] Server Plugins
+[19:27:55] --------------
+[19:27:55]  Loading plugin: sscanf.dll
+[19:27:55] 
+[19:27:55]  ===============================
+[19:27:55] 
+[19:27:55]       sscanf plugin loaded.     
+[19:27:55] 
+[19:27:55]          Version: 2.13.1
+[19:27:55] 
+[19:27:55]    (c) 2022 Alex "Y_Less" Cole  
+[19:27:55] 
+[19:27:55]  ===============================
+[19:27:55] 
+[19:27:55]   Loaded.
+[19:27:55]  Loading plugin: streamer.dll
+[19:27:55] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[19:27:55]   Loaded.
+[19:27:55]  Loading plugin: mysql.dll
+[19:27:55]  >> plugin.mysql: R41-4 successfully loaded.
+[19:27:55]   Loaded.
+[19:27:55]  Loaded 3 plugins.
+
+[19:27:55] 
+[19:27:55] Filterscripts
+[19:27:55] ---------------
+[19:27:55]   Loaded 0 filterscripts.
+
+[19:27:55] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[19:27:55] 
+----------------------------------
+[19:27:55]   Bare Script
+
+[19:27:55] ----------------------------------
+
+[19:27:55] Number of vehicle models: 0
+[19:27:55] --- Server Shutting Down.
+[19:27:55] 
+[19:27:55]  ===============================
+[19:27:55] 
+[19:27:55]      sscanf plugin unloaded.    
+[19:27:55] 
+[19:27:55]  ===============================
+[19:27:55] 
+[19:27:55] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+[19:27:55] plugin.mysql: Unloading plugin...
+[19:27:55] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:27:56] 
+[19:27:56] Server Plugins
+[19:27:56] --------------
+[19:27:56]  Loading plugin: sscanf.dll
+[19:27:56] 
+[19:27:56]  ===============================
+[19:27:56] 
+[19:27:56]       sscanf plugin loaded.     
+[19:27:56] 
+[19:27:56]          Version: 2.13.1
+[19:27:56] 
+[19:27:56]    (c) 2022 Alex "Y_Less" Cole  
+[19:27:56] 
+[19:27:56]  ===============================
+[19:27:56] 
+[19:27:56]   Loaded.
+[19:27:56]  Loading plugin: streamer.dll
+[19:27:56] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[19:27:56]   Loaded.
+[19:27:56]  Loading plugin: mysql.dll
+[19:27:56]  >> plugin.mysql: R41-4 successfully loaded.
+[19:27:56]   Loaded.
+[19:27:56]  Loaded 3 plugins.
+
+[19:27:56] 
+[19:27:56] Filterscripts
+[19:27:56] ---------------
+[19:27:56]   Loaded 0 filterscripts.
+
+[19:27:56] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[19:27:56] 
+----------------------------------
+[19:27:56]   Bare Script
+
+[19:27:56] ----------------------------------
+
+[19:27:56] Number of vehicle models: 0
+[19:27:56] --- Server Shutting Down.
+[19:27:56] 
+[19:27:56]  ===============================
+[19:27:56] 
+[19:27:56]      sscanf plugin unloaded.    
+[19:27:56] 
+[19:27:56]  ===============================
+[19:27:56] 
+[19:27:56] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+[19:27:56] plugin.mysql: Unloading plugin...
+[19:27:56] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:27:58] 
+[19:27:58] Server Plugins
+[19:27:58] --------------
+[19:27:58]  Loading plugin: sscanf.dll
+[19:27:58] 
+[19:27:58]  ===============================
+[19:27:58] 
+[19:27:58]       sscanf plugin loaded.     
+[19:27:58] 
+[19:27:58]          Version: 2.13.1
+[19:27:58] 
+[19:27:58]    (c) 2022 Alex "Y_Less" Cole  
+[19:27:58] 
+[19:27:58]  ===============================
+[19:27:58] 
+[19:27:58]   Loaded.
+[19:27:58]  Loading plugin: streamer.dll
+[19:27:58] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[19:27:58]   Loaded.
+[19:27:58]  Loading plugin: mysql.dll
+[19:27:58]  >> plugin.mysql: R41-4 successfully loaded.
+[19:27:58]   Loaded.
+[19:27:58]  Loaded 3 plugins.
+
+[19:27:58] 
+[19:27:58] Filterscripts
+[19:27:58] ---------------
+[19:27:58]   Loaded 0 filterscripts.
+
+[19:27:58] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[19:27:58] 
+----------------------------------
+[19:27:58]   Bare Script
+
+[19:27:58] ----------------------------------
+
+[19:27:58] Number of vehicle models: 0
+[19:27:58] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:30:05] 
+[19:30:05] Server Plugins
+[19:30:05] --------------
+[19:30:05]  Loading plugin: sscanf.dll
+[19:30:05] 
+[19:30:05]  ===============================
+[19:30:05] 
+[19:30:05]       sscanf plugin loaded.     
+[19:30:05] 
+[19:30:05]          Version: 2.13.1
+[19:30:05] 
+[19:30:05]    (c) 2022 Alex "Y_Less" Cole  
+[19:30:05] 
+[19:30:05]  ===============================
+[19:30:05] 
+[19:30:05]   Loaded.
+[19:30:05]  Loading plugin: streamer.dll
+[19:30:05] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[19:30:05]   Loaded.
+[19:30:05]  Loading plugin: mysql.dll
+[19:30:05]  >> plugin.mysql: R41-4 successfully loaded.
+[19:30:05]   Loaded.
+[19:30:05]  Loaded 3 plugins.
+
+[19:30:05] 
+[19:30:05] Filterscripts
+[19:30:05] ---------------
+[19:30:05]   Loaded 0 filterscripts.
+
+[19:30:05] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[19:30:05] 
+----------------------------------
+[19:30:05]   Bare Script
+
+[19:30:05] ----------------------------------
+
+[19:30:05] Number of vehicle models: 0
+[19:30:05] --- Server Shutting Down.
+[19:30:05] 
+[19:30:05]  ===============================
+[19:30:05] 
+[19:30:05]      sscanf plugin unloaded.    
+[19:30:05] 
+[19:30:05]  ===============================
+[19:30:05] 
+[19:30:05] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+[19:30:05] plugin.mysql: Unloading plugin...
+[19:30:05] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:30:06] 
+[19:30:06] Server Plugins
+[19:30:06] --------------
+[19:30:06]  Loading plugin: sscanf.dll
+[19:30:06] 
+[19:30:06]  ===============================
+[19:30:06] 
+[19:30:06]       sscanf plugin loaded.     
+[19:30:06] 
+[19:30:06]          Version: 2.13.1
+[19:30:06] 
+[19:30:06]    (c) 2022 Alex "Y_Less" Cole  
+[19:30:06] 
+[19:30:06]  ===============================
+[19:30:06] 
+[19:30:06]   Loaded.
+[19:30:06]  Loading plugin: streamer.dll
+[19:30:06] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[19:30:06]   Loaded.
+[19:30:06]  Loading plugin: mysql.dll
+[19:30:06]  >> plugin.mysql: R41-4 successfully loaded.
+[19:30:06]   Loaded.
+[19:30:06]  Loaded 3 plugins.
+
+[19:30:07] 
+[19:30:07] Filterscripts
+[19:30:07] ---------------
+[19:30:07]   Loaded 0 filterscripts.
+
+[19:30:07] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[19:30:07] 
+----------------------------------
+[19:30:07]   Bare Script
+
+[19:30:07] ----------------------------------
+
+[19:30:07] Number of vehicle models: 0
+[19:30:07] --- Server Shutting Down.
+[19:30:07] 
+[19:30:07]  ===============================
+[19:30:07] 
+[19:30:07]      sscanf plugin unloaded.    
+[19:30:07] 
+[19:30:07]  ===============================
+[19:30:07] 
+[19:30:07] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+[19:30:07] plugin.mysql: Unloading plugin...
+[19:30:07] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:30:07] 
+[19:30:07] Server Plugins
+[19:30:07] --------------
+[19:30:07]  Loading plugin: sscanf.dll
+[19:30:07] 
+[19:30:07]  ===============================
+[19:30:07] 
+[19:30:07]       sscanf plugin loaded.     
+[19:30:07] 
+[19:30:07]          Version: 2.13.1
+[19:30:07] 
+[19:30:07]    (c) 2022 Alex "Y_Less" Cole  
+[19:30:07] 
+[19:30:07]  ===============================
+[19:30:07] 
+[19:30:07]   Loaded.
+[19:30:07]  Loading plugin: streamer.dll
+[19:30:07] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[19:30:07]   Loaded.
+[19:30:07]  Loading plugin: mysql.dll
+[19:30:07]  >> plugin.mysql: R41-4 successfully loaded.
+[19:30:07]   Loaded.
+[19:30:07]  Loaded 3 plugins.
+
+[19:30:07] 
+[19:30:07] Filterscripts
+[19:30:07] ---------------
+[19:30:07]   Loaded 0 filterscripts.
+
+[19:30:07] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[19:30:07] 
+----------------------------------
+[19:30:07]   Bare Script
+
+[19:30:07] ----------------------------------
+
+[19:30:07] Number of vehicle models: 0
+[19:30:07] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:31:05] 
+[19:31:05] Server Plugins
+[19:31:05] --------------
+[19:31:05]  Loading plugin: sscanf.dll
+[19:31:05] 
+[19:31:05]  ===============================
+[19:31:05] 
+[19:31:05]       sscanf plugin loaded.     
+[19:31:05] 
+[19:31:05]          Version: 2.13.1
+[19:31:05] 
+[19:31:05]    (c) 2022 Alex "Y_Less" Cole  
+[19:31:05] 
+[19:31:05]  ===============================
+[19:31:05] 
+[19:31:05]   Loaded.
+[19:31:05]  Loading plugin: streamer.dll
+[19:31:05] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[19:31:05]   Loaded.
+[19:31:05]  Loading plugin: mysql.dll
+[19:31:05]  >> plugin.mysql: R41-4 successfully loaded.
+[19:31:05]   Loaded.
+[19:31:05]  Loaded 3 plugins.
+
+[19:31:05] 
+[19:31:05] Filterscripts
+[19:31:05] ---------------
+[19:31:05]   Loaded 0 filterscripts.
+
+[19:31:05] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[19:31:05] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[19:31:05] 
+----------------------------------
+[19:31:05]   Bare Script
+
+[19:31:05] ----------------------------------
+
+[19:31:05] Number of vehicle models: 0
+[19:31:05] --- Server Shutting Down.
+[19:31:05] 
+[19:31:05]  ===============================
+[19:31:05] 
+[19:31:05]      sscanf plugin unloaded.    
+[19:31:05] 
+[19:31:05]  ===============================
+[19:31:05] 
+[19:31:05] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+[19:31:05] plugin.mysql: Unloading plugin...
+[19:31:05] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:31:46] 
+[19:31:46] Server Plugins
+[19:31:46] --------------
+[19:31:46]  Loading plugin: sscanf.dll
+[19:31:46] 
+[19:31:46]  ===============================
+[19:31:46] 
+[19:31:46]       sscanf plugin loaded.     
+[19:31:46] 
+[19:31:46]          Version: 2.13.1
+[19:31:46] 
+[19:31:46]    (c) 2022 Alex "Y_Less" Cole  
+[19:31:46] 
+[19:31:46]  ===============================
+[19:31:46] 
+[19:31:46]   Loaded.
+[19:31:46]  Loading plugin: streamer.dll
+[19:31:46] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[19:31:46]   Loaded.
+[19:31:46]  Loading plugin: mysql.dll
+[19:31:46]  >> plugin.mysql: R41-4 successfully loaded.
+[19:31:46]   Loaded.
+[19:31:46]  Loaded 3 plugins.
+
+[19:31:46] 
+[19:31:46] Filterscripts
+[19:31:46] ---------------
+[19:31:46]   Loaded 0 filterscripts.
+
+[19:31:46] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[19:31:46] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[19:31:46] 
+----------------------------------
+[19:31:46]   Bare Script
+
+[19:31:46] ----------------------------------
+
+[19:31:46] Number of vehicle models: 0
+[19:31:46] --- Server Shutting Down.
+[19:31:46] 
+[19:31:46]  ===============================
+[19:31:46] 
+[19:31:46]      sscanf plugin unloaded.    
+[19:31:46] 
+[19:31:46]  ===============================
+[19:31:46] 
+[19:31:46] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+[19:31:46] plugin.mysql: Unloading plugin...
+[19:31:46] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:31:47] 
+[19:31:47] Server Plugins
+[19:31:47] --------------
+[19:31:47]  Loading plugin: sscanf.dll
+[19:31:47] 
+[19:31:47]  ===============================
+[19:31:47] 
+[19:31:47]       sscanf plugin loaded.     
+[19:31:47] 
+[19:31:47]          Version: 2.13.1
+[19:31:47] 
+[19:31:47]    (c) 2022 Alex "Y_Less" Cole  
+[19:31:47] 
+[19:31:47]  ===============================
+[19:31:47] 
+[19:31:47]   Loaded.
+[19:31:47]  Loading plugin: streamer.dll
+[19:31:47] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[19:31:47]   Loaded.
+[19:31:47]  Loading plugin: mysql.dll
+[19:31:47]  >> plugin.mysql: R41-4 successfully loaded.
+[19:31:47]   Loaded.
+[19:31:47]  Loaded 3 plugins.
+
+[19:31:47] 
+[19:31:47] Filterscripts
+[19:31:47] ---------------
+[19:31:47]   Loaded 0 filterscripts.
+
+[19:31:47] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[19:31:47] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[19:31:47] 
+----------------------------------
+[19:31:47]   Bare Script
+
+[19:31:47] ----------------------------------
+
+[19:31:47] Number of vehicle models: 0
+[19:31:47] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:33:55] 
+[19:33:55] Server Plugins
+[19:33:55] --------------
+[19:33:55]  Loading plugin: sscanf.dll
+[19:33:55] 
+[19:33:55]  ===============================
+[19:33:55] 
+[19:33:55]       sscanf plugin loaded.     
+[19:33:55] 
+[19:33:55]          Version: 2.13.1
+[19:33:55] 
+[19:33:55]    (c) 2022 Alex "Y_Less" Cole  
+[19:33:55] 
+[19:33:55]  ===============================
+[19:33:55] 
+[19:33:55]   Loaded.
+[19:33:55]  Loading plugin: streamer.dll
+[19:33:55] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[19:33:55]   Loaded.
+[19:33:55]  Loading plugin: mysql.dll
+[19:33:55]  >> plugin.mysql: R41-4 successfully loaded.
+[19:33:55]   Loaded.
+[19:33:55]  Loaded 3 plugins.
+
+[19:33:55] 
+[19:33:55] Filterscripts
+[19:33:55] ---------------
+[19:33:55]   Loaded 0 filterscripts.
+
+[19:33:55] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[19:33:55] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[19:33:55] 
+----------------------------------
+[19:33:55]   Bare Script
+
+[19:33:55] ----------------------------------
+
+[19:33:55] Number of vehicle models: 0
+[19:33:55] --- Server Shutting Down.
+[19:33:55] 
+[19:33:55]  ===============================
+[19:33:55] 
+[19:33:55]      sscanf plugin unloaded.    
+[19:33:55] 
+[19:33:55]  ===============================
+[19:33:55] 
+[19:33:55] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+[19:33:55] plugin.mysql: Unloading plugin...
+[19:33:55] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:33:55] 
+[19:33:55] Server Plugins
+[19:33:55] --------------
+[19:33:55]  Loading plugin: sscanf.dll
+[19:33:55] 
+[19:33:55]  ===============================
+[19:33:55] 
+[19:33:55]       sscanf plugin loaded.     
+[19:33:55] 
+[19:33:55]          Version: 2.13.1
+[19:33:55] 
+[19:33:55]    (c) 2022 Alex "Y_Less" Cole  
+[19:33:55] 
+[19:33:55]  ===============================
+[19:33:55] 
+[19:33:55]   Loaded.
+[19:33:55]  Loading plugin: streamer.dll
+[19:33:55] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[19:33:55]   Loaded.
+[19:33:55]  Loading plugin: mysql.dll
+[19:33:55]  >> plugin.mysql: R41-4 successfully loaded.
+[19:33:55]   Loaded.
+[19:33:55]  Loaded 3 plugins.
+
+[19:33:55] 
+[19:33:55] Filterscripts
+[19:33:55] ---------------
+[19:33:55]   Loaded 0 filterscripts.
+
+[19:33:55] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[19:33:55] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[19:33:55] 
+----------------------------------
+[19:33:55]   Bare Script
+
+[19:33:55] ----------------------------------
+
+[19:33:55] Number of vehicle models: 0
+[19:33:55] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:40:45] 
+[19:40:45] Server Plugins
+[19:40:45] --------------
+[19:40:45]  Loading plugin: sscanf.dll
+[19:40:45] 
+[19:40:45]  ===============================
+[19:40:45] 
+[19:40:45]       sscanf plugin loaded.     
+[19:40:45] 
+[19:40:45]          Version: 2.13.1
+[19:40:45] 
+[19:40:45]    (c) 2022 Alex "Y_Less" Cole  
+[19:40:45] 
+[19:40:45]  ===============================
+[19:40:45] 
+[19:40:45]   Loaded.
+[19:40:45]  Loading plugin: streamer.dll
+[19:40:45] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[19:40:45]   Loaded.
+[19:40:45]  Loading plugin: mysql.dll
+[19:40:45]  >> plugin.mysql: R41-4 successfully loaded.
+[19:40:45]   Loaded.
+[19:40:45]  Loaded 3 plugins.
+
+[19:40:45] 
+[19:40:45] Filterscripts
+[19:40:45] ---------------
+[19:40:45]   Loaded 0 filterscripts.
+
+[19:40:45] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[19:40:45] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[19:40:45] 
+----------------------------------
+[19:40:45]   Bare Script
+
+[19:40:45] ----------------------------------
+
+[19:40:45] Number of vehicle models: 0
+[19:40:45] --- Server Shutting Down.
+[19:40:45] 
+[19:40:45]  ===============================
+[19:40:45] 
+[19:40:45]      sscanf plugin unloaded.    
+[19:40:45] 
+[19:40:45]  ===============================
+[19:40:45] 
+[19:40:45] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+[19:40:45] plugin.mysql: Unloading plugin...
+[19:40:45] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:40:46] 
+[19:40:46] Server Plugins
+[19:40:46] --------------
+[19:40:46]  Loading plugin: sscanf.dll
+[19:40:46] 
+[19:40:46]  ===============================
+[19:40:46] 
+[19:40:46]       sscanf plugin loaded.     
+[19:40:46] 
+[19:40:46]          Version: 2.13.1
+[19:40:46] 
+[19:40:46]    (c) 2022 Alex "Y_Less" Cole  
+[19:40:46] 
+[19:40:46]  ===============================
+[19:40:46] 
+[19:40:46]   Loaded.
+[19:40:46]  Loading plugin: streamer.dll
+[19:40:46] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[19:40:46]   Loaded.
+[19:40:46]  Loading plugin: mysql.dll
+[19:40:46]  >> plugin.mysql: R41-4 successfully loaded.
+[19:40:46]   Loaded.
+[19:40:46]  Loaded 3 plugins.
+
+[19:40:46] 
+[19:40:46] Filterscripts
+[19:40:46] ---------------
+[19:40:46]   Loaded 0 filterscripts.
+
+[19:40:46] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[19:40:46] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[19:40:46] 
+----------------------------------
+[19:40:46]   Bare Script
+
+[19:40:46] ----------------------------------
+
+[19:40:46] Number of vehicle models: 0
+[19:40:46] --- Server Shutting Down.
+[19:40:46] 
+[19:40:46]  ===============================
+[19:40:46] 
+[19:40:46]      sscanf plugin unloaded.    
+[19:40:46] 
+[19:40:46]  ===============================
+[19:40:46] 
+[19:40:46] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+[19:40:46] plugin.mysql: Unloading plugin...
+[19:40:46] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:40:46] 
+[19:40:46] Server Plugins
+[19:40:46] --------------
+[19:40:46]  Loading plugin: sscanf.dll
+[19:40:46] 
+[19:40:46]  ===============================
+[19:40:46] 
+[19:40:46]       sscanf plugin loaded.     
+[19:40:46] 
+[19:40:46]          Version: 2.13.1
+[19:40:46] 
+[19:40:46]    (c) 2022 Alex "Y_Less" Cole  
+[19:40:46] 
+[19:40:46]  ===============================
+[19:40:46] 
+[19:40:46]   Loaded.
+[19:40:46]  Loading plugin: streamer.dll
+[19:40:46] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[19:40:46]   Loaded.
+[19:40:46]  Loading plugin: mysql.dll
+[19:40:46]  >> plugin.mysql: R41-4 successfully loaded.
+[19:40:46]   Loaded.
+[19:40:46]  Loaded 3 plugins.
+
+[19:40:46] 
+[19:40:46] Filterscripts
+[19:40:46] ---------------
+[19:40:46]   Loaded 0 filterscripts.
+
+[19:40:46] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[19:40:46] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[19:40:46] 
+----------------------------------
+[19:40:46]   Bare Script
+
+[19:40:46] ----------------------------------
+
+[19:40:46] Number of vehicle models: 0
+[19:40:46] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:41:15] 
+[19:41:15] Server Plugins
+[19:41:15] --------------
+[19:41:15]  Loading plugin: sscanf.dll
+[19:41:15] 
+[19:41:15]  ===============================
+[19:41:15] 
+[19:41:15]       sscanf plugin loaded.     
+[19:41:15] 
+[19:41:15]          Version: 2.13.1
+[19:41:15] 
+[19:41:15]    (c) 2022 Alex "Y_Less" Cole  
+[19:41:15] 
+[19:41:15]  ===============================
+[19:41:15] 
+[19:41:15]   Loaded.
+[19:41:15]  Loading plugin: streamer.dll
+[19:41:15] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[19:41:15]   Loaded.
+[19:41:15]  Loading plugin: mysql.dll
+[19:41:15]  >> plugin.mysql: R41-4 successfully loaded.
+[19:41:15]   Loaded.
+[19:41:15]  Loaded 3 plugins.
+
+[19:41:15] 
+[19:41:15] Filterscripts
+[19:41:15] ---------------
+[19:41:15]   Loaded 0 filterscripts.
+
+[19:41:15] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[19:41:15] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[19:41:15] 
+----------------------------------
+[19:41:15]   Bare Script
+
+[19:41:15] ----------------------------------
+
+[19:41:15] Number of vehicle models: 0
+[19:41:15] --- Server Shutting Down.
+[19:41:15] 
+[19:41:15]  ===============================
+[19:41:15] 
+[19:41:15]      sscanf plugin unloaded.    
+[19:41:15] 
+[19:41:15]  ===============================
+[19:41:15] 
+[19:41:15] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+[19:41:15] plugin.mysql: Unloading plugin...
+[19:41:15] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:41:16] 
+[19:41:16] Server Plugins
+[19:41:16] --------------
+[19:41:16]  Loading plugin: sscanf.dll
+[19:41:16] 
+[19:41:16]  ===============================
+[19:41:16] 
+[19:41:16]       sscanf plugin loaded.     
+[19:41:16] 
+[19:41:16]          Version: 2.13.1
+[19:41:16] 
+[19:41:16]    (c) 2022 Alex "Y_Less" Cole  
+[19:41:16] 
+[19:41:16]  ===============================
+[19:41:16] 
+[19:41:16]   Loaded.
+[19:41:16]  Loading plugin: streamer.dll
+[19:41:16] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[19:41:16]   Loaded.
+[19:41:16]  Loading plugin: mysql.dll
+[19:41:16]  >> plugin.mysql: R41-4 successfully loaded.
+[19:41:16]   Loaded.
+[19:41:16]  Loaded 3 plugins.
+
+[19:41:16] 
+[19:41:16] Filterscripts
+[19:41:16] ---------------
+[19:41:16]   Loaded 0 filterscripts.
+
+[19:41:16] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[19:41:16] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[19:41:16] 
+----------------------------------
+[19:41:16]   Bare Script
+
+[19:41:16] ----------------------------------
+
+[19:41:16] Number of vehicle models: 0
+[19:41:16] --- Server Shutting Down.
+[19:41:16] 
+[19:41:16]  ===============================
+[19:41:16] 
+[19:41:16]      sscanf plugin unloaded.    
+[19:41:16] 
+[19:41:16]  ===============================
+[19:41:16] 
+[19:41:16] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+[19:41:16] plugin.mysql: Unloading plugin...
+[19:41:16] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:41:17] 
+[19:41:17] Server Plugins
+[19:41:17] --------------
+[19:41:17]  Loading plugin: sscanf.dll
+[19:41:17] 
+[19:41:17]  ===============================
+[19:41:17] 
+[19:41:17]       sscanf plugin loaded.     
+[19:41:17] 
+[19:41:17]          Version: 2.13.1
+[19:41:17] 
+[19:41:17]    (c) 2022 Alex "Y_Less" Cole  
+[19:41:17] 
+[19:41:17]  ===============================
+[19:41:17] 
+[19:41:17]   Loaded.
+[19:41:17]  Loading plugin: streamer.dll
+[19:41:17] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[19:41:17]   Loaded.
+[19:41:17]  Loading plugin: mysql.dll
+[19:41:17]  >> plugin.mysql: R41-4 successfully loaded.
+[19:41:17]   Loaded.
+[19:41:17]  Loaded 3 plugins.
+
+[19:41:17] 
+[19:41:17] Filterscripts
+[19:41:17] ---------------
+[19:41:17]   Loaded 0 filterscripts.
+
+[19:41:17] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[19:41:17] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[19:41:17] 
+----------------------------------
+[19:41:17]   Bare Script
+
+[19:41:17] ----------------------------------
+
+[19:41:17] Number of vehicle models: 0
+[19:41:17] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:41:28] 
+[19:41:28] Server Plugins
+[19:41:28] --------------
+[19:41:28]  Loading plugin: sscanf.dll
+[19:41:28] 
+[19:41:28]  ===============================
+[19:41:28] 
+[19:41:28]       sscanf plugin loaded.     
+[19:41:28] 
+[19:41:28]          Version: 2.13.1
+[19:41:28] 
+[19:41:28]    (c) 2022 Alex "Y_Less" Cole  
+[19:41:28] 
+[19:41:28]  ===============================
+[19:41:28] 
+[19:41:28]   Loaded.
+[19:41:28]  Loading plugin: streamer.dll
+[19:41:28] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[19:41:28]   Loaded.
+[19:41:28]  Loading plugin: mysql.dll
+[19:41:28]  >> plugin.mysql: R41-4 successfully loaded.
+[19:41:28]   Loaded.
+[19:41:28]  Loaded 3 plugins.
+
+[19:41:28] 
+[19:41:28] Filterscripts
+[19:41:28] ---------------
+[19:41:28]   Loaded 0 filterscripts.
+
+[19:41:28] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[19:41:28] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[19:41:28] 
+----------------------------------
+[19:41:28]   Bare Script
+
+[19:41:28] ----------------------------------
+
+[19:41:28] Number of vehicle models: 0
+[19:41:28] --- Server Shutting Down.
+[19:41:28] 
+[19:41:28]  ===============================
+[19:41:28] 
+[19:41:28]      sscanf plugin unloaded.    
+[19:41:28] 
+[19:41:28]  ===============================
+[19:41:28] 
+[19:41:28] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+[19:41:28] plugin.mysql: Unloading plugin...
+[19:41:28] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:41:28] 
+[19:41:28] Server Plugins
+[19:41:28] --------------
+[19:41:28]  Loading plugin: sscanf.dll
+[19:41:28] 
+[19:41:28]  ===============================
+[19:41:28] 
+[19:41:28]       sscanf plugin loaded.     
+[19:41:28] 
+[19:41:28]          Version: 2.13.1
+[19:41:28] 
+[19:41:28]    (c) 2022 Alex "Y_Less" Cole  
+[19:41:28] 
+[19:41:28]  ===============================
+[19:41:28] 
+[19:41:28]   Loaded.
+[19:41:28]  Loading plugin: streamer.dll
+[19:41:28] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[19:41:28]   Loaded.
+[19:41:28]  Loading plugin: mysql.dll
+[19:41:28]  >> plugin.mysql: R41-4 successfully loaded.
+[19:41:28]   Loaded.
+[19:41:28]  Loaded 3 plugins.
+
+[19:41:28] 
+[19:41:28] Filterscripts
+[19:41:28] ---------------
+[19:41:28]   Loaded 0 filterscripts.
+
+[19:41:28] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[19:41:28] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[19:41:28] 
+----------------------------------
+[19:41:28]   Bare Script
+
+[19:41:28] ----------------------------------
+
+[19:41:28] Number of vehicle models: 0
+[19:41:28] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:41:41] 
+[19:41:41] Server Plugins
+[19:41:41] --------------
+[19:41:41]  Loading plugin: sscanf.dll
+[19:41:41] 
+[19:41:41]  ===============================
+[19:41:41] 
+[19:41:41]       sscanf plugin loaded.     
+[19:41:41] 
+[19:41:41]          Version: 2.13.1
+[19:41:41] 
+[19:41:41]    (c) 2022 Alex "Y_Less" Cole  
+[19:41:41] 
+[19:41:41]  ===============================
+[19:41:41] 
+[19:41:41]   Loaded.
+[19:41:41]  Loading plugin: streamer.dll
+[19:41:41] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[19:41:41]   Loaded.
+[19:41:41]  Loading plugin: mysql.dll
+[19:41:41]  >> plugin.mysql: R41-4 successfully loaded.
+[19:41:41]   Loaded.
+[19:41:41]  Loaded 3 plugins.
+
+[19:41:41] 
+[19:41:41] Filterscripts
+[19:41:41] ---------------
+[19:41:41]   Loaded 0 filterscripts.
+
+[19:41:41] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[19:41:41] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[19:41:41] 
+----------------------------------
+[19:41:41]   Bare Script
+
+[19:41:41] ----------------------------------
+
+[19:41:41] Number of vehicle models: 0
+[19:41:41] --- Server Shutting Down.
+[19:41:41] 
+[19:41:41]  ===============================
+[19:41:41] 
+[19:41:41]      sscanf plugin unloaded.    
+[19:41:41] 
+[19:41:41]  ===============================
+[19:41:41] 
+[19:41:41] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+[19:41:41] plugin.mysql: Unloading plugin...
+[19:41:41] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:41:42] 
+[19:41:42] Server Plugins
+[19:41:42] --------------
+[19:41:42]  Loading plugin: sscanf.dll
+[19:41:42] 
+[19:41:42]  ===============================
+[19:41:42] 
+[19:41:42]       sscanf plugin loaded.     
+[19:41:42] 
+[19:41:42]          Version: 2.13.1
+[19:41:42] 
+[19:41:42]    (c) 2022 Alex "Y_Less" Cole  
+[19:41:42] 
+[19:41:42]  ===============================
+[19:41:42] 
+[19:41:42]   Loaded.
+[19:41:42]  Loading plugin: streamer.dll
+[19:41:42] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[19:41:42]   Loaded.
+[19:41:42]  Loading plugin: mysql.dll
+[19:41:42]  >> plugin.mysql: R41-4 successfully loaded.
+[19:41:42]   Loaded.
+[19:41:42]  Loaded 3 plugins.
+
+[19:41:42] 
+[19:41:42] Filterscripts
+[19:41:42] ---------------
+[19:41:42]   Loaded 0 filterscripts.
+
+[19:41:42] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[19:41:42] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[19:41:42] 
+----------------------------------
+[19:41:42]   Bare Script
+
+[19:41:42] ----------------------------------
+
+[19:41:42] Number of vehicle models: 0
+[19:41:42] --- Server Shutting Down.
+[19:41:43] 
+[19:41:43]  ===============================
+[19:41:43] 
+[19:41:43]      sscanf plugin unloaded.    
+[19:41:43] 
+[19:41:43]  ===============================
+[19:41:43] 
+[19:41:43] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+[19:41:43] plugin.mysql: Unloading plugin...
+[19:41:43] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:41:43] 
+[19:41:43] Server Plugins
+[19:41:43] --------------
+[19:41:43]  Loading plugin: sscanf.dll
+[19:41:43] 
+[19:41:43]  ===============================
+[19:41:43] 
+[19:41:43]       sscanf plugin loaded.     
+[19:41:43] 
+[19:41:43]          Version: 2.13.1
+[19:41:43] 
+[19:41:43]    (c) 2022 Alex "Y_Less" Cole  
+[19:41:43] 
+[19:41:43]  ===============================
+[19:41:43] 
+[19:41:43]   Loaded.
+[19:41:43]  Loading plugin: streamer.dll
+[19:41:43] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[19:41:43]   Loaded.
+[19:41:43]  Loading plugin: mysql.dll
+[19:41:43]  >> plugin.mysql: R41-4 successfully loaded.
+[19:41:43]   Loaded.
+[19:41:43]  Loaded 3 plugins.
+
+[19:41:43] 
+[19:41:43] Filterscripts
+[19:41:43] ---------------
+[19:41:43]   Loaded 0 filterscripts.
+
+[19:41:43] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[19:41:43] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[19:41:43] 
+----------------------------------
+[19:41:43]   Bare Script
+
+[19:41:43] ----------------------------------
+
+[19:41:43] Number of vehicle models: 0
+[19:41:43] --- Server Shutting Down.
+[19:41:43] 
+[19:41:43]  ===============================
+[19:41:43] 
+[19:41:43]      sscanf plugin unloaded.    
+[19:41:43] 
+[19:41:43]  ===============================
+[19:41:43] 
+[19:41:43] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+[19:41:43] plugin.mysql: Unloading plugin...
+[19:41:43] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:41:43] 
+[19:41:43] Server Plugins
+[19:41:43] --------------
+[19:41:43]  Loading plugin: sscanf.dll
+[19:41:43] 
+[19:41:43]  ===============================
+[19:41:43] 
+[19:41:43]       sscanf plugin loaded.     
+[19:41:43] 
+[19:41:43]          Version: 2.13.1
+[19:41:43] 
+[19:41:43]    (c) 2022 Alex "Y_Less" Cole  
+[19:41:43] 
+[19:41:43]  ===============================
+[19:41:43] 
+[19:41:43]   Loaded.
+[19:41:43]  Loading plugin: streamer.dll
+[19:41:43] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[19:41:43]   Loaded.
+[19:41:43]  Loading plugin: mysql.dll
+[19:41:43]  >> plugin.mysql: R41-4 successfully loaded.
+[19:41:43]   Loaded.
+[19:41:43]  Loaded 3 plugins.
+
+[19:41:43] 
+[19:41:43] Filterscripts
+[19:41:43] ---------------
+[19:41:43]   Loaded 0 filterscripts.
+
+[19:41:43] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[19:41:43] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[19:41:43] 
+----------------------------------
+[19:41:43]   Bare Script
+
+[19:41:43] ----------------------------------
+
+[19:41:43] Number of vehicle models: 0
+[19:41:43] --- Server Shutting Down.
+[19:41:43] 
+[19:41:43]  ===============================
+[19:41:43] 
+[19:41:43]      sscanf plugin unloaded.    
+[19:41:43] 
+[19:41:43]  ===============================
+[19:41:43] 
+[19:41:43] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+[19:41:43] plugin.mysql: Unloading plugin...
+[19:41:43] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:41:45] 
+[19:41:45] Server Plugins
+[19:41:45] --------------
+[19:41:45]  Loading plugin: sscanf.dll
+[19:41:45] 
+[19:41:45]  ===============================
+[19:41:45] 
+[19:41:45]       sscanf plugin loaded.     
+[19:41:45] 
+[19:41:45]          Version: 2.13.1
+[19:41:45] 
+[19:41:45]    (c) 2022 Alex "Y_Less" Cole  
+[19:41:45] 
+[19:41:45]  ===============================
+[19:41:45] 
+[19:41:45]   Loaded.
+[19:41:45]  Loading plugin: streamer.dll
+[19:41:45] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[19:41:45]   Loaded.
+[19:41:45]  Loading plugin: mysql.dll
+[19:41:45]  >> plugin.mysql: R41-4 successfully loaded.
+[19:41:45]   Loaded.
+[19:41:45]  Loaded 3 plugins.
+
+[19:41:45] 
+[19:41:45] Filterscripts
+[19:41:45] ---------------
+[19:41:45]   Loaded 0 filterscripts.
+
+[19:41:45] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[19:41:45] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[19:41:45] 
+----------------------------------
+[19:41:45]   Bare Script
+
+[19:41:45] ----------------------------------
+
+[19:41:45] Number of vehicle models: 0
+[19:41:45] --- Server Shutting Down.
+[19:41:45] 
+[19:41:45]  ===============================
+[19:41:45] 
+[19:41:45]      sscanf plugin unloaded.    
+[19:41:45] 
+[19:41:45]  ===============================
+[19:41:45] 
+[19:41:45] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+[19:41:45] plugin.mysql: Unloading plugin...
+[19:41:45] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:41:45] 
+[19:41:46] Server Plugins
+[19:41:46] --------------
+[19:41:46]  Loading plugin: sscanf.dll
+[19:41:46] 
+[19:41:46]  ===============================
+[19:41:46] 
+[19:41:46]       sscanf plugin loaded.     
+[19:41:46] 
+[19:41:46]          Version: 2.13.1
+[19:41:46] 
+[19:41:46]    (c) 2022 Alex "Y_Less" Cole  
+[19:41:46] 
+[19:41:46]  ===============================
+[19:41:46] 
+[19:41:46]   Loaded.
+[19:41:46]  Loading plugin: streamer.dll
+[19:41:46] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[19:41:46]   Loaded.
+[19:41:46]  Loading plugin: mysql.dll
+[19:41:46]  >> plugin.mysql: R41-4 successfully loaded.
+[19:41:46]   Loaded.
+[19:41:46]  Loaded 3 plugins.
+
+[19:41:46] 
+[19:41:46] Filterscripts
+[19:41:46] ---------------
+[19:41:46]   Loaded 0 filterscripts.
+
+[19:41:46] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[19:41:46] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[19:41:46] 
+----------------------------------
+[19:41:46]   Bare Script
+
+[19:41:46] ----------------------------------
+
+[19:41:46] Number of vehicle models: 0
+[19:41:46] --- Server Shutting Down.
+[19:41:46] 
+[19:41:46]  ===============================
+[19:41:46] 
+[19:41:46]      sscanf plugin unloaded.    
+[19:41:46] 
+[19:41:46]  ===============================
+[19:41:46] 
+[19:41:46] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+[19:41:46] plugin.mysql: Unloading plugin...
+[19:41:46] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:41:47] 
+[19:41:47] Server Plugins
+[19:41:47] --------------
+[19:41:47]  Loading plugin: sscanf.dll
+[19:41:47] 
+[19:41:47]  ===============================
+[19:41:47] 
+[19:41:47]       sscanf plugin loaded.     
+[19:41:47] 
+[19:41:47]          Version: 2.13.1
+[19:41:47] 
+[19:41:47]    (c) 2022 Alex "Y_Less" Cole  
+[19:41:47] 
+[19:41:47]  ===============================
+[19:41:47] 
+[19:41:47]   Loaded.
+[19:41:47]  Loading plugin: streamer.dll
+[19:41:47] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[19:41:47]   Loaded.
+[19:41:47]  Loading plugin: mysql.dll
+[19:41:47]  >> plugin.mysql: R41-4 successfully loaded.
+[19:41:47]   Loaded.
+[19:41:47]  Loaded 3 plugins.
+
+[19:41:47] 
+[19:41:47] Filterscripts
+[19:41:47] ---------------
+[19:41:47]   Loaded 0 filterscripts.
+
+[19:41:47] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[19:41:47] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[19:41:47] 
+----------------------------------
+[19:41:47]   Bare Script
+
+[19:41:47] ----------------------------------
+
+[19:41:47] Number of vehicle models: 0
+[19:41:47] --- Server Shutting Down.
+[19:41:47] 
+[19:41:47]  ===============================
+[19:41:47] 
+[19:41:47]      sscanf plugin unloaded.    
+[19:41:47] 
+[19:41:47]  ===============================
+[19:41:47] 
+[19:41:47] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+[19:41:47] plugin.mysql: Unloading plugin...
+[19:41:47] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:41:53] 
+[19:41:53] Server Plugins
+[19:41:53] --------------
+[19:41:53]  Loading plugin: sscanf.dll
+[19:41:53] 
+[19:41:53]  ===============================
+[19:41:53] 
+[19:41:53]       sscanf plugin loaded.     
+[19:41:53] 
+[19:41:53]          Version: 2.13.1
+[19:41:53] 
+[19:41:53]    (c) 2022 Alex "Y_Less" Cole  
+[19:41:53] 
+[19:41:53]  ===============================
+[19:41:53] 
+[19:41:53]   Loaded.
+[19:41:53]  Loading plugin: streamer.dll
+[19:41:53] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[19:41:53]   Loaded.
+[19:41:53]  Loading plugin: mysql.dll
+[19:41:53]  >> plugin.mysql: R41-4 successfully loaded.
+[19:41:53]   Loaded.
+[19:41:53]  Loaded 3 plugins.
+
+[19:41:53] 
+[19:41:53] Filterscripts
+[19:41:53] ---------------
+[19:41:53]   Loaded 0 filterscripts.
+
+[19:41:53] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[19:41:53] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[19:41:53] 
+----------------------------------
+[19:41:53]   Bare Script
+
+[19:41:53] ----------------------------------
+
+[19:41:53] Number of vehicle models: 0
+[19:41:53] --- Server Shutting Down.
+[19:41:53] 
+[19:41:53]  ===============================
+[19:41:53] 
+[19:41:53]      sscanf plugin unloaded.    
+[19:41:53] 
+[19:41:53]  ===============================
+[19:41:53] 
+[19:41:53] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+[19:41:53] plugin.mysql: Unloading plugin...
+[19:41:53] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:41:57] 
+[19:41:57] Server Plugins
+[19:41:57] --------------
+[19:41:57]  Loading plugin: sscanf.dll
+[19:41:57] 
+[19:41:57]  ===============================
+[19:41:57] 
+[19:41:57]       sscanf plugin loaded.     
+[19:41:57] 
+[19:41:57]          Version: 2.13.1
+[19:41:57] 
+[19:41:57]    (c) 2022 Alex "Y_Less" Cole  
+[19:41:57] 
+[19:41:57]  ===============================
+[19:41:57] 
+[19:41:57]   Loaded.
+[19:41:57]  Loading plugin: streamer.dll
+[19:41:57] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[19:41:57]   Loaded.
+[19:41:57]  Loading plugin: mysql.dll
+[19:41:57]  >> plugin.mysql: R41-4 successfully loaded.
+[19:41:57]   Loaded.
+[19:41:57]  Loaded 3 plugins.
+
+[19:41:57] 
+[19:41:57] Filterscripts
+[19:41:57] ---------------
+[19:41:57]   Loaded 0 filterscripts.
+
+[19:41:57] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[19:41:57] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[19:41:57] 
+----------------------------------
+[19:41:57]   Bare Script
+
+[19:41:57] ----------------------------------
+
+[19:41:57] Number of vehicle models: 0
+[19:41:57] --- Server Shutting Down.
+[19:41:57] 
+[19:41:57]  ===============================
+[19:41:57] 
+[19:41:57]      sscanf plugin unloaded.    
+[19:41:57] 
+[19:41:57]  ===============================
+[19:41:57] 
+[19:41:57] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+[19:41:57] plugin.mysql: Unloading plugin...
+[19:41:57] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:44:13] 
+[19:44:13] Server Plugins
+[19:44:13] --------------
+[19:44:13]  Loading plugin: sscanf.dll
+[19:44:13] 
+[19:44:13]  ===============================
+[19:44:13] 
+[19:44:13]       sscanf plugin loaded.     
+[19:44:13] 
+[19:44:13]          Version: 2.13.1
+[19:44:13] 
+[19:44:13]    (c) 2022 Alex "Y_Less" Cole  
+[19:44:13] 
+[19:44:13]  ===============================
+[19:44:13] 
+[19:44:13]   Loaded.
+[19:44:13]  Loading plugin: streamer.dll
+[19:44:13] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[19:44:13]   Loaded.
+[19:44:13]  Loading plugin: mysql.dll
+[19:44:13]  >> plugin.mysql: R41-4 successfully loaded.
+[19:44:13]   Loaded.
+[19:44:13]  Loaded 3 plugins.
+
+[19:44:13] 
+[19:44:13] Filterscripts
+[19:44:13] ---------------
+[19:44:13]   Loaded 0 filterscripts.
+
+[19:44:13] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[19:44:13] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[19:44:13] 
+----------------------------------
+[19:44:13]   Bare Script
+
+[19:44:13] ----------------------------------
+
+[19:44:13] Number of vehicle models: 0
+[19:44:13] --- Server Shutting Down.
+[19:44:13] 
+[19:44:13]  ===============================
+[19:44:13] 
+[19:44:13]      sscanf plugin unloaded.    
+[19:44:13] 
+[19:44:13]  ===============================
+[19:44:13] 
+[19:44:13] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+[19:44:13] plugin.mysql: Unloading plugin...
+[19:44:13] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:44:21] 
+[19:44:21] Server Plugins
+[19:44:21] --------------
+[19:44:21]  Loading plugin: sscanf.dll
+[19:44:21] 
+[19:44:21]  ===============================
+[19:44:21] 
+[19:44:21]       sscanf plugin loaded.     
+[19:44:21] 
+[19:44:21]          Version: 2.13.1
+[19:44:21] 
+[19:44:21]    (c) 2022 Alex "Y_Less" Cole  
+[19:44:21] 
+[19:44:21]  ===============================
+[19:44:21] 
+[19:44:21]   Loaded.
+[19:44:21]  Loading plugin: streamer.dll
+[19:44:21] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[19:44:21]   Loaded.
+[19:44:21]  Loading plugin: mysql.dll
+[19:44:21]  >> plugin.mysql: R41-4 successfully loaded.
+[19:44:21]   Loaded.
+[19:44:21]  Loaded 3 plugins.
+
+[19:44:21] 
+[19:44:21] Filterscripts
+[19:44:21] ---------------
+[19:44:21]   Loaded 0 filterscripts.
+
+[19:44:21] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[19:44:21] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[19:44:21] 
+----------------------------------
+[19:44:21]   Bare Script
+
+[19:44:21] ----------------------------------
+
+[19:44:21] Number of vehicle models: 0
+[19:44:21] --- Server Shutting Down.
+[19:44:21] 
+[19:44:21]  ===============================
+[19:44:21] 
+[19:44:21]      sscanf plugin unloaded.    
+[19:44:21] 
+[19:44:21]  ===============================
+[19:44:21] 
+[19:44:21] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+[19:44:21] plugin.mysql: Unloading plugin...
+[19:44:21] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:44:21] 
+[19:44:21] Server Plugins
+[19:44:21] --------------
+[19:44:21]  Loading plugin: sscanf.dll
+[19:44:21] 
+[19:44:21]  ===============================
+[19:44:21] 
+[19:44:21]       sscanf plugin loaded.     
+[19:44:21] 
+[19:44:21]          Version: 2.13.1
+[19:44:21] 
+[19:44:21]    (c) 2022 Alex "Y_Less" Cole  
+[19:44:21] 
+[19:44:21]  ===============================
+[19:44:21] 
+[19:44:21]   Loaded.
+[19:44:21]  Loading plugin: streamer.dll
+[19:44:21] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[19:44:21]   Loaded.
+[19:44:21]  Loading plugin: mysql.dll
+[19:44:21]  >> plugin.mysql: R41-4 successfully loaded.
+[19:44:21]   Loaded.
+[19:44:21]  Loaded 3 plugins.
+
+[19:44:21] 
+[19:44:21] Filterscripts
+[19:44:21] ---------------
+[19:44:21]   Loaded 0 filterscripts.
+
+[19:44:21] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[19:44:21] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[19:44:21] 
+----------------------------------
+[19:44:21]   Bare Script
+
+[19:44:21] ----------------------------------
+
+[19:44:21] Number of vehicle models: 0
+[19:44:21] --- Server Shutting Down.
+[19:44:21] 
+[19:44:21]  ===============================
+[19:44:21] 
+[19:44:21]      sscanf plugin unloaded.    
+[19:44:21] 
+[19:44:21]  ===============================
+[19:44:21] 
+[19:44:21] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+[19:44:21] plugin.mysql: Unloading plugin...
+[19:44:21] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:44:22] 
+[19:44:22] Server Plugins
+[19:44:22] --------------
+[19:44:22]  Loading plugin: sscanf.dll
+[19:44:22] 
+[19:44:22]  ===============================
+[19:44:22] 
+[19:44:22]       sscanf plugin loaded.     
+[19:44:22] 
+[19:44:22]          Version: 2.13.1
+[19:44:22] 
+[19:44:22]    (c) 2022 Alex "Y_Less" Cole  
+[19:44:22] 
+[19:44:22]  ===============================
+[19:44:22] 
+[19:44:22]   Loaded.
+[19:44:22]  Loading plugin: streamer.dll
+[19:44:22] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[19:44:22]   Loaded.
+[19:44:22]  Loading plugin: mysql.dll
+[19:44:22]  >> plugin.mysql: R41-4 successfully loaded.
+[19:44:22]   Loaded.
+[19:44:22]  Loaded 3 plugins.
+
+[19:44:22] 
+[19:44:22] Filterscripts
+[19:44:22] ---------------
+[19:44:22]   Loaded 0 filterscripts.
+
+[19:44:22] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[19:44:22] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[19:44:22] 
+----------------------------------
+[19:44:22]   Bare Script
+
+[19:44:22] ----------------------------------
+
+[19:44:22] Number of vehicle models: 0
+[19:44:22] --- Server Shutting Down.
+[19:44:22] 
+[19:44:22]  ===============================
+[19:44:22] 
+[19:44:22]      sscanf plugin unloaded.    
+[19:44:22] 
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:44:57] 
+[19:44:57] Server Plugins
+[19:44:57] --------------
+[19:44:57]  Loading plugin: sscanf.dll
+[19:44:57] 
+[19:44:57]  ===============================
+[19:44:57] 
+[19:44:57]       sscanf plugin loaded.     
+[19:44:57] 
+[19:44:57]          Version: 2.13.1
+[19:44:57] 
+[19:44:57]    (c) 2022 Alex "Y_Less" Cole  
+[19:44:57] 
+[19:44:57]  ===============================
+[19:44:57] 
+[19:44:57]   Loaded.
+[19:44:57]  Loading plugin: streamer.dll
+[19:44:57] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[19:44:57]   Loaded.
+[19:44:57]  Loading plugin: mysql.dll
+[19:44:57]  >> plugin.mysql: R41-4 successfully loaded.
+[19:44:57]   Loaded.
+[19:44:57]  Loaded 3 plugins.
+
+[19:44:57] 
+[19:44:57] Filterscripts
+[19:44:57] ---------------
+[19:44:57]   Loaded 0 filterscripts.
+
+[19:44:57] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[19:44:57] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[19:44:57] 
+----------------------------------
+[19:44:57]   Bare Script
+
+[19:44:57] ----------------------------------
+
+[19:44:57] Number of vehicle models: 0
+[19:44:57] --- Server Shutting Down.
+[19:44:58] 
+[19:44:58]  ===============================
+[19:44:58] 
+[19:44:58]      sscanf plugin unloaded.    
+[19:44:58] 
+[19:44:58]  ===============================
+[19:44:58] 
+[19:44:58] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+[19:44:58] plugin.mysql: Unloading plugin...
+[19:44:58] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:44:58] 
+[19:44:58] Server Plugins
+[19:44:58] --------------
+[19:44:58]  Loading plugin: sscanf.dll
+[19:44:58] 
+[19:44:58]  ===============================
+[19:44:58] 
+[19:44:58]       sscanf plugin loaded.     
+[19:44:58] 
+[19:44:58]          Version: 2.13.1
+[19:44:58] 
+[19:44:58]    (c) 2022 Alex "Y_Less" Cole  
+[19:44:58] 
+[19:44:58]  ===============================
+[19:44:58] 
+[19:44:58]   Loaded.
+[19:44:58]  Loading plugin: streamer.dll
+[19:44:58] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[19:44:58]   Loaded.
+[19:44:58]  Loading plugin: mysql.dll
+[19:44:58]  >> plugin.mysql: R41-4 successfully loaded.
+[19:44:58]   Loaded.
+[19:44:58]  Loaded 3 plugins.
+
+[19:44:58] 
+[19:44:58] Filterscripts
+[19:44:58] ---------------
+[19:44:58]   Loaded 0 filterscripts.
+
+[19:44:58] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[19:44:58] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[19:44:58] 
+----------------------------------
+[19:44:58]   Bare Script
+
+[19:44:58] ----------------------------------
+
+[19:44:58] Number of vehicle models: 0
+[19:44:58] --- Server Shutting Down.
+[19:44:58] 
+[19:44:58]  ===============================
+[19:44:58] 
+[19:44:58]      sscanf plugin unloaded.    
+[19:44:58] 
+[19:44:58]  ===============================
+[19:44:58] 
+[19:44:58] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+[19:44:58] plugin.mysql: Unloading plugin...
+[19:44:58] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:44:58] 
+[19:44:58] Server Plugins
+[19:44:58] --------------
+[19:44:58]  Loading plugin: sscanf.dll
+[19:44:58] 
+[19:44:58]  ===============================
+[19:44:58] 
+[19:44:58]       sscanf plugin loaded.     
+[19:44:58] 
+[19:44:58]          Version: 2.13.1
+[19:44:58] 
+[19:44:58]    (c) 2022 Alex "Y_Less" Cole  
+[19:44:58] 
+[19:44:58]  ===============================
+[19:44:58] 
+[19:44:58]   Loaded.
+[19:44:58]  Loading plugin: streamer.dll
+[19:44:58] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[19:44:58]   Loaded.
+[19:44:58]  Loading plugin: mysql.dll
+[19:44:58]  >> plugin.mysql: R41-4 successfully loaded.
+[19:44:58]   Loaded.
+[19:44:58]  Loaded 3 plugins.
+
+[19:44:58] 
+[19:44:58] Filterscripts
+[19:44:58] ---------------
+[19:44:58]   Loaded 0 filterscripts.
+
+[19:44:58] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[19:44:58] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[19:44:58] 
+----------------------------------
+[19:44:58]   Bare Script
+
+[19:44:58] ----------------------------------
+
+[19:44:58] Number of vehicle models: 0
+[19:44:58] --- Server Shutting Down.
+[19:44:59] 
+[19:44:59]  ===============================
+[19:44:59] 
+[19:44:59]      sscanf plugin unloaded.    
+[19:44:59] 
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:56:24] 
+[19:56:24] Server Plugins
+[19:56:24] --------------
+[19:56:24]  Loading plugin: sscanf.dll
+[19:56:24] 
+[19:56:24]  ===============================
+[19:56:24] 
+[19:56:24]       sscanf plugin loaded.     
+[19:56:24] 
+[19:56:24]          Version: 2.13.1
+[19:56:24] 
+[19:56:24]    (c) 2022 Alex "Y_Less" Cole  
+[19:56:24] 
+[19:56:24]  ===============================
+[19:56:24] 
+[19:56:24]   Loaded.
+[19:56:24]  Loading plugin: streamer.dll
+[19:56:24] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[19:56:24]   Loaded.
+[19:56:24]  Loading plugin: mysql.dll
+[19:56:24]  >> plugin.mysql: R41-4 successfully loaded.
+[19:56:24]   Loaded.
+[19:56:24]  Loaded 3 plugins.
+
+[19:56:24] 
+[19:56:24] Filterscripts
+[19:56:24] ---------------
+[19:56:24]   Loaded 0 filterscripts.
+
+[19:56:24] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[19:56:24] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[19:56:24] 
+----------------------------------
+[19:56:24]   Bare Script
+
+[19:56:24] ----------------------------------
+
+[19:56:24] Number of vehicle models: 0
+[19:56:24] --- Server Shutting Down.
+[19:56:24] 
+[19:56:24]  ===============================
+[19:56:24] 
+[19:56:24]      sscanf plugin unloaded.    
+[19:56:24] 
+[19:56:24]  ===============================
+[19:56:24] 
+[19:56:24] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+[19:56:24] plugin.mysql: Unloading plugin...
+[19:56:24] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:56:25] 
+[19:56:25] Server Plugins
+[19:56:25] --------------
+[19:56:25]  Loading plugin: sscanf.dll
+[19:56:25] 
+[19:56:25]  ===============================
+[19:56:25] 
+[19:56:25]       sscanf plugin loaded.     
+[19:56:25] 
+[19:56:25]          Version: 2.13.1
+[19:56:25] 
+[19:56:25]    (c) 2022 Alex "Y_Less" Cole  
+[19:56:25] 
+[19:56:25]  ===============================
+[19:56:25] 
+[19:56:25]   Loaded.
+[19:56:25]  Loading plugin: streamer.dll
+[19:56:25] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[19:56:25]   Loaded.
+[19:56:25]  Loading plugin: mysql.dll
+[19:56:25]  >> plugin.mysql: R41-4 successfully loaded.
+[19:56:25]   Loaded.
+[19:56:25]  Loaded 3 plugins.
+
+[19:56:25] 
+[19:56:25] Filterscripts
+[19:56:25] ---------------
+[19:56:25]   Loaded 0 filterscripts.
+
+[19:56:25] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[19:56:25] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[19:56:25] 
+----------------------------------
+[19:56:25]   Bare Script
+
+[19:56:25] ----------------------------------
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:15:44] 
+[21:15:44] Server Plugins
+[21:15:44] --------------
+[21:15:44]  Loading plugin: sscanf.dll
+[21:15:44] 
+[21:15:44]  ===============================
+[21:15:44] 
+[21:15:44]       sscanf plugin loaded.     
+[21:15:44] 
+[21:15:44]          Version: 2.13.1
+[21:15:44] 
+[21:15:44]    (c) 2022 Alex "Y_Less" Cole  
+[21:15:44] 
+[21:15:44]  ===============================
+[21:15:44] 
+[21:15:44]   Loaded.
+[21:15:44]  Loading plugin: streamer.dll
+[21:15:44] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[21:15:44]   Loaded.
+[21:15:44]  Loading plugin: mysql.dll
+[21:15:44]  >> plugin.mysql: R41-4 successfully loaded.
+[21:15:44]   Loaded.
+[21:15:44]  Loaded 3 plugins.
+
+[21:15:44] 
+[21:15:44] Filterscripts
+[21:15:44] ---------------
+[21:15:44]   Loaded 0 filterscripts.
+
+[21:15:44] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[21:15:44] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[21:15:44] 
+----------------------------------
+[21:15:44]   Bare Script
+
+[21:15:44] ----------------------------------
+
+[21:15:44] Number of vehicle models: 0
+[21:15:44] --- Server Shutting Down.
+[21:15:44] 
+[21:15:44]  ===============================
+[21:15:44] 
+[21:15:44]      sscanf plugin unloaded.    
+[21:15:44] 
+[21:15:44]  ===============================
+[21:15:44] 
+[21:15:44] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+[21:15:44] plugin.mysql: Unloading plugin...
+[21:15:44] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:15:45] 
+[21:15:45] Server Plugins
+[21:15:45] --------------
+[21:15:45]  Loading plugin: sscanf.dll
+[21:15:45] 
+[21:15:45]  ===============================
+[21:15:45] 
+[21:15:45]       sscanf plugin loaded.     
+[21:15:45] 
+[21:15:45]          Version: 2.13.1
+[21:15:45] 
+[21:15:45]    (c) 2022 Alex "Y_Less" Cole  
+[21:15:45] 
+[21:15:45]  ===============================
+[21:15:45] 
+[21:15:45]   Loaded.
+[21:15:45]  Loading plugin: streamer.dll
+[21:15:45] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[21:15:45]   Loaded.
+[21:15:45]  Loading plugin: mysql.dll
+[21:15:45]  >> plugin.mysql: R41-4 successfully loaded.
+[21:15:45]   Loaded.
+[21:15:45]  Loaded 3 plugins.
+
+[21:15:45] 
+[21:15:45] Filterscripts
+[21:15:45] ---------------
+[21:15:45]   Loaded 0 filterscripts.
+
+[21:15:45] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[21:15:45] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[21:15:45] 
+----------------------------------
+[21:15:45]   Bare Script
+
+[21:15:45] ----------------------------------
+
+[21:15:45] Number of vehicle models: 0
+[21:15:45] --- Server Shutting Down.
+[21:15:45] 
+[21:15:45]  ===============================
+[21:15:45] 
+[21:15:45]      sscanf plugin unloaded.    
+[21:15:46] 
+[21:15:46]  ===============================
+[21:15:46] 
+[21:15:46] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+[21:15:46] plugin.mysql: Unloading plugin...
+[21:15:46] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:15:46] 
+[21:15:46] Server Plugins
+[21:15:46] --------------
+[21:15:46]  Loading plugin: sscanf.dll
+[21:15:46] 
+[21:15:46]  ===============================
+[21:15:46] 
+[21:15:46]       sscanf plugin loaded.     
+[21:15:46] 
+[21:15:46]          Version: 2.13.1
+[21:15:46] 
+[21:15:46]    (c) 2022 Alex "Y_Less" Cole  
+[21:15:46] 
+[21:15:46]  ===============================
+[21:15:46] 
+[21:15:46]   Loaded.
+[21:15:46]  Loading plugin: streamer.dll
+[21:15:46] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[21:15:46]   Loaded.
+[21:15:46]  Loading plugin: mysql.dll
+[21:15:46]  >> plugin.mysql: R41-4 successfully loaded.
+[21:15:46]   Loaded.
+[21:15:46]  Loaded 3 plugins.
+
+[21:15:46] 
+[21:15:46] Filterscripts
+[21:15:46] ---------------
+[21:15:46]   Loaded 0 filterscripts.
+
+[21:15:46] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[21:15:46] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[21:15:46] 
+----------------------------------
+[21:15:46]   Bare Script
+
+[21:15:46] ----------------------------------
+
+[21:15:46] Number of vehicle models: 0
+[21:15:46] --- Server Shutting Down.
+[21:15:50] 
+[21:15:50]  ===============================
+[21:15:50] 
+[21:15:50]      sscanf plugin unloaded.    
+[21:15:50] 
+[21:15:50]  ===============================
+[21:15:50] 
+[21:15:50] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+[21:15:50] plugin.mysql: Unloading plugin...
+[21:15:50] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:16:10] 
+[21:16:10] Server Plugins
+[21:16:10] --------------
+[21:16:10]  Loading plugin: sscanf.dll
+[21:16:10] 
+[21:16:10]  ===============================
+[21:16:10] 
+[21:16:10]       sscanf plugin loaded.     
+[21:16:10] 
+[21:16:10]          Version: 2.13.1
+[21:16:10] 
+[21:16:10]    (c) 2022 Alex "Y_Less" Cole  
+[21:16:10] 
+[21:16:10]  ===============================
+[21:16:10] 
+[21:16:10]   Loaded.
+[21:16:10]  Loading plugin: streamer.dll
+[21:16:10] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[21:16:10]   Loaded.
+[21:16:10]  Loading plugin: mysql.dll
+[21:16:10]  >> plugin.mysql: R41-4 successfully loaded.
+[21:16:10]   Loaded.
+[21:16:10]  Loaded 3 plugins.
+
+[21:16:10] 
+[21:16:10] Filterscripts
+[21:16:10] ---------------
+[21:16:10]   Loaded 0 filterscripts.
+
+[21:16:10] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[21:16:10] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[21:16:10] 
+----------------------------------
+[21:16:10]   Bare Script
+
+[21:16:10] ----------------------------------
+
+[21:16:10] Number of vehicle models: 0
+[21:16:10] --- Server Shutting Down.
+[21:16:10] 
+[21:16:10]  ===============================
+[21:16:10] 
+[21:16:10]      sscanf plugin unloaded.    
+[21:16:10] 
+[21:16:10]  ===============================
+[21:16:10] 
+[21:16:10] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+[21:16:10] plugin.mysql: Unloading plugin...
+[21:16:10] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:16:11] 
+[21:16:11] Server Plugins
+[21:16:11] --------------
+[21:16:11]  Loading plugin: sscanf.dll
+[21:16:11] 
+[21:16:11]  ===============================
+[21:16:11] 
+[21:16:11]       sscanf plugin loaded.     
+[21:16:11] 
+[21:16:11]          Version: 2.13.1
+[21:16:11] 
+[21:16:11]    (c) 2022 Alex "Y_Less" Cole  
+[21:16:11] 
+[21:16:11]  ===============================
+[21:16:11] 
+[21:16:11]   Loaded.
+[21:16:11]  Loading plugin: streamer.dll
+[21:16:11] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[21:16:11]   Loaded.
+[21:16:11]  Loading plugin: mysql.dll
+[21:16:11]  >> plugin.mysql: R41-4 successfully loaded.
+[21:16:11]   Loaded.
+[21:16:11]  Loaded 3 plugins.
+
+[21:16:11] 
+[21:16:11] Filterscripts
+[21:16:11] ---------------
+[21:16:11]   Loaded 0 filterscripts.
+
+[21:16:11] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[21:16:11] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[21:16:11] 
+----------------------------------
+[21:16:11]   Bare Script
+
+[21:16:11] ----------------------------------
+
+[21:16:11] Number of vehicle models: 0
+[21:16:11] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:17:32] 
+[21:17:32] Server Plugins
+[21:17:32] --------------
+[21:17:32]  Loading plugin: sscanf.dll
+[21:17:32] 
+[21:17:32]  ===============================
+[21:17:32] 
+[21:17:32]       sscanf plugin loaded.     
+[21:17:32] 
+[21:17:32]          Version: 2.13.1
+[21:17:32] 
+[21:17:32]    (c) 2022 Alex "Y_Less" Cole  
+[21:17:32] 
+[21:17:32]  ===============================
+[21:17:32] 
+[21:17:32]   Loaded.
+[21:17:32]  Loading plugin: streamer.dll
+[21:17:33] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[21:17:33]   Loaded.
+[21:17:33]  Loading plugin: mysql.dll
+[21:17:33]  >> plugin.mysql: R41-4 successfully loaded.
+[21:17:33]   Loaded.
+[21:17:33]  Loaded 3 plugins.
+
+[21:17:33] 
+[21:17:33] Filterscripts
+[21:17:33] ---------------
+[21:17:33]   Loaded 0 filterscripts.
+
+[21:17:33] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[21:17:33] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[21:17:33] 
+----------------------------------
+[21:17:33]   Bare Script
+
+[21:17:33] ----------------------------------
+
+[21:17:33] Number of vehicle models: 0
+[21:17:33] --- Server Shutting Down.
+[21:17:33] 
+[21:17:33]  ===============================
+[21:17:33] 
+[21:17:33]      sscanf plugin unloaded.    
+[21:17:33] 
+[21:17:33]  ===============================
+[21:17:33] 
+[21:17:33] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+[21:17:33] plugin.mysql: Unloading plugin...
+[21:17:33] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:17:33] 
+[21:17:33] Server Plugins
+[21:17:33] --------------
+[21:17:33]  Loading plugin: sscanf.dll
+[21:17:33] 
+[21:17:33]  ===============================
+[21:17:33] 
+[21:17:33]       sscanf plugin loaded.     
+[21:17:33] 
+[21:17:33]          Version: 2.13.1
+[21:17:33] 
+[21:17:33]    (c) 2022 Alex "Y_Less" Cole  
+[21:17:33] 
+[21:17:33]  ===============================
+[21:17:33] 
+[21:17:33]   Loaded.
+[21:17:33]  Loading plugin: streamer.dll
+[21:17:33] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[21:17:33]   Loaded.
+[21:17:33]  Loading plugin: mysql.dll
+[21:17:33]  >> plugin.mysql: R41-4 successfully loaded.
+[21:17:33]   Loaded.
+[21:17:33]  Loaded 3 plugins.
+
+[21:17:33] 
+[21:17:33] Filterscripts
+[21:17:33] ---------------
+[21:17:33]   Loaded 0 filterscripts.
+
+[21:17:33] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[21:17:33] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[21:17:33] 
+----------------------------------
+[21:17:33]   Bare Script
+
+[21:17:33] ----------------------------------
+
+[21:17:33] Number of vehicle models: 0
+[21:17:33] --- Server Shutting Down.
+[21:17:33] 
+[21:17:33]  ===============================
+[21:17:33] 
+[21:17:33]      sscanf plugin unloaded.    
+[21:17:33] 
+[21:17:33]  ===============================
+[21:17:33] 
+[21:17:33] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+[21:17:33] plugin.mysql: Unloading plugin...
+[21:17:33] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:17:34] 
+[21:17:34] Server Plugins
+[21:17:34] --------------
+[21:17:34]  Loading plugin: sscanf.dll
+[21:17:34] 
+[21:17:34]  ===============================
+[21:17:34] 
+[21:17:34]       sscanf plugin loaded.     
+[21:17:34] 
+[21:17:34]          Version: 2.13.1
+[21:17:34] 
+[21:17:34]    (c) 2022 Alex "Y_Less" Cole  
+[21:17:34] 
+[21:17:34]  ===============================
+[21:17:34] 
+[21:17:34]   Loaded.
+[21:17:34]  Loading plugin: streamer.dll
+[21:17:34] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[21:17:34]   Loaded.
+[21:17:34]  Loading plugin: mysql.dll
+[21:17:34]  >> plugin.mysql: R41-4 successfully loaded.
+[21:17:34]   Loaded.
+[21:17:34]  Loaded 3 plugins.
+
+[21:17:34] 
+[21:17:34] Filterscripts
+[21:17:34] ---------------
+[21:17:34]   Loaded 0 filterscripts.
+
+[21:17:34] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[21:17:34] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[21:17:34] 
+----------------------------------
+[21:17:34]   Bare Script
+
+[21:17:34] ----------------------------------
+
+[21:17:34] Number of vehicle models: 0
+[21:17:34] --- Server Shutting Down.
+[21:17:34] 
+[21:17:34]  ===============================
+[21:17:34] 
+[21:17:34]      sscanf plugin unloaded.    
+[21:17:34] 
+[21:17:34]  ===============================
+[21:17:34] 
+[21:17:34] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+[21:17:34] plugin.mysql: Unloading plugin...
+[21:17:34] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:17:34] 
+[21:17:34] Server Plugins
+[21:17:34] --------------
+[21:17:34]  Loading plugin: sscanf.dll
+[21:17:34] 
+[21:17:34]  ===============================
+[21:17:34] 
+[21:17:34]       sscanf plugin loaded.     
+[21:17:34] 
+[21:17:34]          Version: 2.13.1
+[21:17:34] 
+[21:17:34]    (c) 2022 Alex "Y_Less" Cole  
+[21:17:34] 
+[21:17:34]  ===============================
+[21:17:34] 
+[21:17:34]   Loaded.
+[21:17:34]  Loading plugin: streamer.dll
+[21:17:34] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[21:17:34]   Loaded.
+[21:17:34]  Loading plugin: mysql.dll
+[21:17:34]  >> plugin.mysql: R41-4 successfully loaded.
+[21:17:34]   Loaded.
+[21:17:34]  Loaded 3 plugins.
+
+[21:17:34] 
+[21:17:34] Filterscripts
+[21:17:34] ---------------
+[21:17:34]   Loaded 0 filterscripts.
+
+[21:17:34] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[21:17:34] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[21:17:34] 
+----------------------------------
+[21:17:34]   Bare Script
+
+[21:17:34] ----------------------------------
+
+[21:17:34] Number of vehicle models: 0
+[21:17:34] --- Server Shutting Down.
+[21:17:34] 
+[21:17:34]  ===============================
+[21:17:34] 
+[21:17:34]      sscanf plugin unloaded.    
+[21:17:34] 
+[21:17:34]  ===============================
+[21:17:34] 
+[21:17:34] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+[21:17:34] plugin.mysql: Unloading plugin...
+[21:17:34] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:17:34] 
+[21:17:34] Server Plugins
+[21:17:34] --------------
+[21:17:34]  Loading plugin: sscanf.dll
+[21:17:34] 
+[21:17:34]  ===============================
+[21:17:34] 
+[21:17:34]       sscanf plugin loaded.     
+[21:17:34] 
+[21:17:34]          Version: 2.13.1
+[21:17:34] 
+[21:17:34]    (c) 2022 Alex "Y_Less" Cole  
+[21:17:34] 
+[21:17:34]  ===============================
+[21:17:34] 
+[21:17:34]   Loaded.
+[21:17:34]  Loading plugin: streamer.dll
+[21:17:34] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[21:17:34]   Loaded.
+[21:17:34]  Loading plugin: mysql.dll
+[21:17:34]  >> plugin.mysql: R41-4 successfully loaded.
+[21:17:34]   Loaded.
+[21:17:34]  Loaded 3 plugins.
+
+[21:17:34] 
+[21:17:34] Filterscripts
+[21:17:34] ---------------
+[21:17:34]   Loaded 0 filterscripts.
+
+[21:17:34] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[21:17:34] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[21:17:34] 
+----------------------------------
+[21:17:34]   Bare Script
+
+[21:17:34] ----------------------------------
+
+[21:17:34] Number of vehicle models: 0
+[21:17:34] --- Server Shutting Down.
+[21:17:35] 
+[21:17:35]  ===============================
+[21:17:35] 
+[21:17:35]      sscanf plugin unloaded.    
+[21:17:35] 
+[21:17:35]  ===============================
+[21:17:35] 
+[21:17:35] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+[21:17:35] plugin.mysql: Unloading plugin...
+[21:17:35] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:17:35] 
+[21:17:35] Server Plugins
+[21:17:35] --------------
+[21:17:35]  Loading plugin: sscanf.dll
+[21:17:35] 
+[21:17:35]  ===============================
+[21:17:35] 
+[21:17:35]       sscanf plugin loaded.     
+[21:17:35] 
+[21:17:35]          Version: 2.13.1
+[21:17:35] 
+[21:17:35]    (c) 2022 Alex "Y_Less" Cole  
+[21:17:35] 
+[21:17:35]  ===============================
+[21:17:35] 
+[21:17:35]   Loaded.
+[21:17:35]  Loading plugin: streamer.dll
+[21:17:35] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[21:17:35]   Loaded.
+[21:17:35]  Loading plugin: mysql.dll
+[21:17:35]  >> plugin.mysql: R41-4 successfully loaded.
+[21:17:35]   Loaded.
+[21:17:35]  Loaded 3 plugins.
+
+[21:17:35] 
+[21:17:35] Filterscripts
+[21:17:35] ---------------
+[21:17:35]   Loaded 0 filterscripts.
+
+[21:17:35] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[21:17:35] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[21:17:35] 
+----------------------------------
+[21:17:35]   Bare Script
+
+[21:17:35] ----------------------------------
+
+[21:17:35] Number of vehicle models: 0
+[21:17:35] --- Server Shutting Down.
+[21:17:35] 
+[21:17:35]  ===============================
+[21:17:35] 
+[21:17:35]      sscanf plugin unloaded.    
+[21:17:35] 
+[21:17:35]  ===============================
+[21:17:35] 
+[21:17:35] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+[21:17:35] plugin.mysql: Unloading plugin...
+[21:17:35] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:17:38] 
+[21:17:38] Server Plugins
+[21:17:38] --------------
+[21:17:38]  Loading plugin: sscanf.dll
+[21:17:38] 
+[21:17:38]  ===============================
+[21:17:38] 
+[21:17:38]       sscanf plugin loaded.     
+[21:17:38] 
+[21:17:38]          Version: 2.13.1
+[21:17:38] 
+[21:17:38]    (c) 2022 Alex "Y_Less" Cole  
+[21:17:38] 
+[21:17:38]  ===============================
+[21:17:38] 
+[21:17:38]   Loaded.
+[21:17:38]  Loading plugin: streamer.dll
+[21:17:38] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[21:17:38]   Loaded.
+[21:17:38]  Loading plugin: mysql.dll
+[21:17:38]  >> plugin.mysql: R41-4 successfully loaded.
+[21:17:38]   Loaded.
+[21:17:38]  Loaded 3 plugins.
+
+[21:17:38] 
+[21:17:38] Filterscripts
+[21:17:38] ---------------
+[21:17:38]   Loaded 0 filterscripts.
+
+[21:17:38] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[21:17:38] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[21:17:38] 
+----------------------------------
+[21:17:38]   Bare Script
+
+[21:17:38] ----------------------------------
+
+[21:17:38] Number of vehicle models: 0
+[21:17:38] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:18:09] 
+[21:18:09] Server Plugins
+[21:18:09] --------------
+[21:18:09]  Loading plugin: sscanf.dll
+[21:18:09] 
+[21:18:09]  ===============================
+[21:18:09] 
+[21:18:09]       sscanf plugin loaded.     
+[21:18:09] 
+[21:18:09]          Version: 2.13.1
+[21:18:09] 
+[21:18:09]    (c) 2022 Alex "Y_Less" Cole  
+[21:18:09] 
+[21:18:09]  ===============================
+[21:18:09] 
+[21:18:09]   Loaded.
+[21:18:09]  Loading plugin: streamer.dll
+[21:18:09] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[21:18:09]   Loaded.
+[21:18:09]  Loading plugin: mysql.dll
+[21:18:09]  >> plugin.mysql: R41-4 successfully loaded.
+[21:18:09]   Loaded.
+[21:18:09]  Loaded 3 plugins.
+
+[21:18:09] 
+[21:18:09] Filterscripts
+[21:18:09] ---------------
+[21:18:09]   Loaded 0 filterscripts.
+
+[21:18:09] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[21:18:09] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[21:18:09] 
+----------------------------------
+[21:18:09]   Bare Script
+
+[21:18:09] ----------------------------------
+
+[21:18:09] Number of vehicle models: 0
+[21:18:09] --- Server Shutting Down.
+[21:18:10] 
+[21:18:10]  ===============================
+[21:18:10] 
+[21:18:10]      sscanf plugin unloaded.    
+[21:18:10] 
+[21:18:10]  ===============================
+[21:18:10] 
+[21:18:10] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+[21:18:10] plugin.mysql: Unloading plugin...
+[21:18:10] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:18:10] 
+[21:18:10] Server Plugins
+[21:18:10] --------------
+[21:18:10]  Loading plugin: sscanf.dll
+[21:18:10] 
+[21:18:10]  ===============================
+[21:18:10] 
+[21:18:10]       sscanf plugin loaded.     
+[21:18:10] 
+[21:18:10]          Version: 2.13.1
+[21:18:10] 
+[21:18:10]    (c) 2022 Alex "Y_Less" Cole  
+[21:18:10] 
+[21:18:10]  ===============================
+[21:18:10] 
+[21:18:10]   Loaded.
+[21:18:10]  Loading plugin: streamer.dll
+[21:18:10] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[21:18:10]   Loaded.
+[21:18:10]  Loading plugin: mysql.dll
+[21:18:10]  >> plugin.mysql: R41-4 successfully loaded.
+[21:18:10]   Loaded.
+[21:18:10]  Loaded 3 plugins.
+
+[21:18:10] 
+[21:18:10] Filterscripts
+[21:18:10] ---------------
+[21:18:10]   Loaded 0 filterscripts.
+
+[21:18:10] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[21:18:10] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[21:18:10] 
+----------------------------------
+[21:18:10]   Bare Script
+
+[21:18:10] ----------------------------------
+
+[21:18:10] Number of vehicle models: 0
+[21:18:10] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:21:34] 
+[21:21:34] Server Plugins
+[21:21:34] --------------
+[21:21:34]  Loading plugin: sscanf.dll
+[21:21:34] 
+[21:21:34]  ===============================
+[21:21:34] 
+[21:21:34]       sscanf plugin loaded.     
+[21:21:34] 
+[21:21:34]          Version: 2.13.1
+[21:21:34] 
+[21:21:34]    (c) 2022 Alex "Y_Less" Cole  
+[21:21:34] 
+[21:21:34]  ===============================
+[21:21:34] 
+[21:21:34]   Loaded.
+[21:21:34]  Loading plugin: streamer.dll
+[21:21:34] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[21:21:34]   Loaded.
+[21:21:34]  Loading plugin: mysql.dll
+[21:21:34]  >> plugin.mysql: R41-4 successfully loaded.
+[21:21:34]   Loaded.
+[21:21:34]  Loaded 3 plugins.
+
+[21:21:34] 
+[21:21:34] Filterscripts
+[21:21:34] ---------------
+[21:21:34]   Loaded 0 filterscripts.
+
+[21:21:34] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[21:21:34] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[21:21:34] 
+----------------------------------
+[21:21:34]   Bare Script
+
+[21:21:34] ----------------------------------
+
+[21:21:34] Number of vehicle models: 0
+[21:21:34] --- Server Shutting Down.
+[21:21:34] 
+[21:21:34]  ===============================
+[21:21:34] 
+[21:21:34]      sscanf plugin unloaded.    
+[21:21:34] 
+[21:21:34]  ===============================
+[21:21:34] 
+[21:21:34] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+[21:21:34] plugin.mysql: Unloading plugin...
+[21:21:34] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:21:34] 
+[21:21:34] Server Plugins
+[21:21:34] --------------
+[21:21:34]  Loading plugin: sscanf.dll
+[21:21:34] 
+[21:21:34]  ===============================
+[21:21:34] 
+[21:21:34]       sscanf plugin loaded.     
+[21:21:34] 
+[21:21:34]          Version: 2.13.1
+[21:21:34] 
+[21:21:34]    (c) 2022 Alex "Y_Less" Cole  
+[21:21:34] 
+[21:21:34]  ===============================
+[21:21:34] 
+[21:21:34]   Loaded.
+[21:21:34]  Loading plugin: streamer.dll
+[21:21:34] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[21:21:34]   Loaded.
+[21:21:34]  Loading plugin: mysql.dll
+[21:21:34]  >> plugin.mysql: R41-4 successfully loaded.
+[21:21:34]   Loaded.
+[21:21:34]  Loaded 3 plugins.
+
+[21:21:35] 
+[21:21:35] Filterscripts
+[21:21:35] ---------------
+[21:21:35]   Loaded 0 filterscripts.
+
+[21:21:35] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[21:21:35] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[21:21:35] 
+----------------------------------
+[21:21:35]   Bare Script
+
+[21:21:35] ----------------------------------
+
+[21:21:35] Number of vehicle models: 0
+[21:21:35] --- Server Shutting Down.
+[21:21:35] 
+[21:21:35]  ===============================
+[21:21:35] 
+[21:21:35]      sscanf plugin unloaded.    
+[21:21:35] 
+[21:21:35]  ===============================
+[21:21:35] 
+[21:21:35] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+[21:21:35] plugin.mysql: Unloading plugin...
+[21:21:35] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:21:35] 
+[21:21:35] Server Plugins
+[21:21:35] --------------
+[21:21:35]  Loading plugin: sscanf.dll
+[21:21:35] 
+[21:21:35]  ===============================
+[21:21:35] 
+[21:21:35]       sscanf plugin loaded.     
+[21:21:35] 
+[21:21:35]          Version: 2.13.1
+[21:21:35] 
+[21:21:35]    (c) 2022 Alex "Y_Less" Cole  
+[21:21:35] 
+[21:21:35]  ===============================
+[21:21:35] 
+[21:21:35]   Loaded.
+[21:21:35]  Loading plugin: streamer.dll
+[21:21:35] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[21:21:35]   Loaded.
+[21:21:35]  Loading plugin: mysql.dll
+[21:21:35]  >> plugin.mysql: R41-4 successfully loaded.
+[21:21:35]   Loaded.
+[21:21:35]  Loaded 3 plugins.
+
+[21:21:35] 
+[21:21:35] Filterscripts
+[21:21:35] ---------------
+[21:21:35]   Loaded 0 filterscripts.
+
+[21:21:35] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[21:21:35] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[21:21:35] 
+----------------------------------
+[21:21:35]   Bare Script
+
+[21:21:35] ----------------------------------
+
+[21:21:35] Number of vehicle models: 0
+[21:21:35] --- Server Shutting Down.
+[21:21:35] 
+[21:21:35]  ===============================
+[21:21:35] 
+[21:21:35]      sscanf plugin unloaded.    
+[21:21:35] 
+[21:21:35]  ===============================
+[21:21:35] 
+[21:21:35] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+[21:21:35] plugin.mysql: Unloading plugin...
+[21:21:35] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:21:35] 
+[21:21:35] Server Plugins
+[21:21:35] --------------
+[21:21:35]  Loading plugin: sscanf.dll
+[21:21:35] 
+[21:21:35]  ===============================
+[21:21:35] 
+[21:21:35]       sscanf plugin loaded.     
+[21:21:35] 
+[21:21:35]          Version: 2.13.1
+[21:21:35] 
+[21:21:35]    (c) 2022 Alex "Y_Less" Cole  
+[21:21:35] 
+[21:21:35]  ===============================
+[21:21:35] 
+[21:21:35]   Loaded.
+[21:21:35]  Loading plugin: streamer.dll
+[21:21:35] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[21:21:35]   Loaded.
+[21:21:35]  Loading plugin: mysql.dll
+[21:21:35]  >> plugin.mysql: R41-4 successfully loaded.
+[21:21:35]   Loaded.
+[21:21:35]  Loaded 3 plugins.
+
+[21:21:35] 
+[21:21:35] Filterscripts
+[21:21:35] ---------------
+[21:21:35]   Loaded 0 filterscripts.
+
+[21:21:35] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[21:21:35] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[21:21:35] 
+----------------------------------
+[21:21:35]   Bare Script
+
+[21:21:35] ----------------------------------
+
+[21:21:35] Number of vehicle models: 0
+[21:21:35] --- Server Shutting Down.
+[21:21:35] 
+[21:21:35]  ===============================
+[21:21:35] 
+[21:21:35]      sscanf plugin unloaded.    
+[21:21:35] 
+[21:21:35]  ===============================
+[21:21:35] 
+[21:21:35] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+[21:21:35] plugin.mysql: Unloading plugin...
+[21:21:35] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:21:36] 
+[21:21:36] Server Plugins
+[21:21:36] --------------
+[21:21:36]  Loading plugin: sscanf.dll
+[21:21:36] 
+[21:21:36]  ===============================
+[21:21:36] 
+[21:21:36]       sscanf plugin loaded.     
+[21:21:36] 
+[21:21:36]          Version: 2.13.1
+[21:21:36] 
+[21:21:36]    (c) 2022 Alex "Y_Less" Cole  
+[21:21:36] 
+[21:21:36]  ===============================
+[21:21:36] 
+[21:21:36]   Loaded.
+[21:21:36]  Loading plugin: streamer.dll
+[21:21:36] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[21:21:36]   Loaded.
+[21:21:36]  Loading plugin: mysql.dll
+[21:21:36]  >> plugin.mysql: R41-4 successfully loaded.
+[21:21:36]   Loaded.
+[21:21:36]  Loaded 3 plugins.
+
+[21:21:36] 
+[21:21:36] Filterscripts
+[21:21:36] ---------------
+[21:21:36]   Loaded 0 filterscripts.
+
+[21:21:36] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[21:21:36] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[21:21:36] 
+----------------------------------
+[21:21:36]   Bare Script
+
+[21:21:36] ----------------------------------
+
+[21:21:36] Number of vehicle models: 0
+[21:21:36] --- Server Shutting Down.
+[21:21:36] 
+[21:21:36]  ===============================
+[21:21:36] 
+[21:21:36]      sscanf plugin unloaded.    
+[21:21:36] 
+[21:21:36]  ===============================
+[21:21:36] 
+[21:21:36] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+[21:21:36] plugin.mysql: Unloading plugin...
+[21:21:36] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:21:36] 
+[21:21:36] Server Plugins
+[21:21:36] --------------
+[21:21:36]  Loading plugin: sscanf.dll
+[21:21:36] 
+[21:21:36]  ===============================
+[21:21:36] 
+[21:21:36]       sscanf plugin loaded.     
+[21:21:36] 
+[21:21:36]          Version: 2.13.1
+[21:21:36] 
+[21:21:36]    (c) 2022 Alex "Y_Less" Cole  
+[21:21:36] 
+[21:21:36]  ===============================
+[21:21:36] 
+[21:21:36]   Loaded.
+[21:21:36]  Loading plugin: streamer.dll
+[21:21:36] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[21:21:36]   Loaded.
+[21:21:36]  Loading plugin: mysql.dll
+[21:21:36]  >> plugin.mysql: R41-4 successfully loaded.
+[21:21:36]   Loaded.
+[21:21:36]  Loaded 3 plugins.
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:22:02] 
+[21:22:02] Server Plugins
+[21:22:02] --------------
+[21:22:02]  Loading plugin: sscanf.dll
+[21:22:02] 
+[21:22:02]  ===============================
+[21:22:02] 
+[21:22:02]       sscanf plugin loaded.     
+[21:22:02] 
+[21:22:02]          Version: 2.13.1
+[21:22:02] 
+[21:22:02]    (c) 2022 Alex "Y_Less" Cole  
+[21:22:02] 
+[21:22:02]  ===============================
+[21:22:02] 
+[21:22:02]   Loaded.
+[21:22:02]  Loading plugin: streamer.dll
+[21:22:02] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[21:22:02]   Loaded.
+[21:22:02]  Loading plugin: mysql.dll
+[21:22:02]  >> plugin.mysql: R41-4 successfully loaded.
+[21:22:02]   Loaded.
+[21:22:02]  Loaded 3 plugins.
+
+[21:22:02] 
+[21:22:02] Filterscripts
+[21:22:02] ---------------
+[21:22:02]   Loaded 0 filterscripts.
+
+[21:22:02] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[21:22:02] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[21:22:02] 
+----------------------------------
+[21:22:02]   Bare Script
+
+[21:22:02] ----------------------------------
+
+[21:22:02] Number of vehicle models: 0
+[21:22:02] --- Server Shutting Down.
+[21:22:02] 
+[21:22:02]  ===============================
+[21:22:02] 
+[21:22:02]      sscanf plugin unloaded.    
+[21:22:02] 
+[21:22:02]  ===============================
+[21:22:02] 
+[21:22:02] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+[21:22:02] plugin.mysql: Unloading plugin...
+[21:22:02] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:22:04] 
+[21:22:04] Server Plugins
+[21:22:04] --------------
+[21:22:04]  Loading plugin: sscanf.dll
+[21:22:04] 
+[21:22:04]  ===============================
+[21:22:04] 
+[21:22:04]       sscanf plugin loaded.     
+[21:22:04] 
+[21:22:04]          Version: 2.13.1
+[21:22:04] 
+[21:22:04]    (c) 2022 Alex "Y_Less" Cole  
+[21:22:04] 
+[21:22:04]  ===============================
+[21:22:04] 
+[21:22:04]   Loaded.
+[21:22:04]  Loading plugin: streamer.dll
+[21:22:04] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[21:22:04]   Loaded.
+[21:22:04]  Loading plugin: mysql.dll
+[21:22:04]  >> plugin.mysql: R41-4 successfully loaded.
+[21:22:04]   Loaded.
+[21:22:04]  Loaded 3 plugins.
+
+[21:22:04] 
+[21:22:04] Filterscripts
+[21:22:04] ---------------
+[21:22:04]   Loaded 0 filterscripts.
+
+[21:22:04] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[21:22:04] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[21:22:04] 
+----------------------------------
+[21:22:04]   Bare Script
+
+[21:22:04] ----------------------------------
+
+[21:22:04] Number of vehicle models: 0
+[21:22:04] --- Server Shutting Down.
+[21:22:04] 
+[21:22:04]  ===============================
+[21:22:04] 
+[21:22:04]      sscanf plugin unloaded.    
+[21:22:04] 
+[21:22:04]  ===============================
+[21:22:04] 
+[21:22:04] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+[21:22:04] plugin.mysql: Unloading plugin...
+[21:22:04] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:22:04] 
+[21:22:04] Server Plugins
+[21:22:04] --------------
+[21:22:04]  Loading plugin: sscanf.dll
+[21:22:04] 
+[21:22:04]  ===============================
+[21:22:04] 
+[21:22:04]       sscanf plugin loaded.     
+[21:22:04] 
+[21:22:04]          Version: 2.13.1
+[21:22:04] 
+[21:22:04]    (c) 2022 Alex "Y_Less" Cole  
+[21:22:04] 
+[21:22:04]  ===============================
+[21:22:04] 
+[21:22:04]   Loaded.
+[21:22:04]  Loading plugin: streamer.dll
+[21:22:04] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[21:22:04]   Loaded.
+[21:22:04]  Loading plugin: mysql.dll
+[21:22:04]  >> plugin.mysql: R41-4 successfully loaded.
+[21:22:04]   Loaded.
+[21:22:04]  Loaded 3 plugins.
+
+[21:22:05] 
+[21:22:05] Filterscripts
+[21:22:05] ---------------
+[21:22:05]   Loaded 0 filterscripts.
+
+[21:22:05] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[21:22:05] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[21:22:05] 
+----------------------------------
+[21:22:05]   Bare Script
+
+[21:22:05] ----------------------------------
+
+[21:22:05] Number of vehicle models: 0
+[21:22:05] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:22:08] 
+[21:22:08] Server Plugins
+[21:22:08] --------------
+[21:22:08]  Loading plugin: sscanf.dll
+[21:22:08] 
+[21:22:08]  ===============================
+[21:22:08] 
+[21:22:08]       sscanf plugin loaded.     
+[21:22:08] 
+[21:22:08]          Version: 2.13.1
+[21:22:08] 
+[21:22:08]    (c) 2022 Alex "Y_Less" Cole  
+[21:22:08] 
+[21:22:08]  ===============================
+[21:22:08] 
+[21:22:08]   Loaded.
+[21:22:08]  Loading plugin: streamer.dll
+[21:22:08] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[21:22:08]   Loaded.
+[21:22:08]  Loading plugin: mysql.dll
+[21:22:08]  >> plugin.mysql: R41-4 successfully loaded.
+[21:22:08]   Loaded.
+[21:22:08]  Loaded 3 plugins.
+
+[21:22:08] 
+[21:22:08] Filterscripts
+[21:22:08] ---------------
+[21:22:08]   Loaded 0 filterscripts.
+
+[21:22:08] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[21:22:08] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[21:22:08] 
+----------------------------------
+[21:22:08]   Bare Script
+
+[21:22:08] ----------------------------------
+
+[21:22:08] Number of vehicle models: 0
+[21:22:08] --- Server Shutting Down.
+[21:22:08] 
+[21:22:08]  ===============================
+[21:22:08] 
+[21:22:08]      sscanf plugin unloaded.    
+[21:22:08] 
+[21:22:08]  ===============================
+[21:22:08] 
+[21:22:08] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+[21:22:08] plugin.mysql: Unloading plugin...
+[21:22:08] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:22:09] 
+[21:22:09] Server Plugins
+[21:22:09] --------------
+[21:22:09]  Loading plugin: sscanf.dll
+[21:22:09] 
+[21:22:09]  ===============================
+[21:22:09] 
+[21:22:09]       sscanf plugin loaded.     
+[21:22:09] 
+[21:22:09]          Version: 2.13.1
+[21:22:09] 
+[21:22:09]    (c) 2022 Alex "Y_Less" Cole  
+[21:22:09] 
+[21:22:09]  ===============================
+[21:22:09] 
+[21:22:09]   Loaded.
+[21:22:09]  Loading plugin: streamer.dll
+[21:22:09] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[21:22:09]   Loaded.
+[21:22:09]  Loading plugin: mysql.dll
+[21:22:09]  >> plugin.mysql: R41-4 successfully loaded.
+[21:22:09]   Loaded.
+[21:22:09]  Loaded 3 plugins.
+
+[21:22:09] 
+[21:22:09] Filterscripts
+[21:22:09] ---------------
+[21:22:09]   Loaded 0 filterscripts.
+
+[21:22:09] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[21:22:09] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[21:22:09] 
+----------------------------------
+[21:22:09]   Bare Script
+
+[21:22:09] ----------------------------------
+
+[21:22:09] Number of vehicle models: 0
+[21:22:09] --- Server Shutting Down.
+[21:22:09] 
+[21:22:09]  ===============================
+[21:22:09] 
+[21:22:09]      sscanf plugin unloaded.    
+[21:22:09] 
+[21:22:09]  ===============================
+[21:22:09] 
+[21:22:09] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+[21:22:09] plugin.mysql: Unloading plugin...
+[21:22:09] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:22:09] 
+[21:22:09] Server Plugins
+[21:22:09] --------------
+[21:22:09]  Loading plugin: sscanf.dll
+[21:22:09] 
+[21:22:09]  ===============================
+[21:22:09] 
+[21:22:09]       sscanf plugin loaded.     
+[21:22:09] 
+[21:22:09]          Version: 2.13.1
+[21:22:09] 
+[21:22:09]    (c) 2022 Alex "Y_Less" Cole  
+[21:22:09] 
+[21:22:09]  ===============================
+[21:22:09] 
+[21:22:09]   Loaded.
+[21:22:09]  Loading plugin: streamer.dll
+[21:22:09] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[21:22:09]   Loaded.
+[21:22:09]  Loading plugin: mysql.dll
+[21:22:09]  >> plugin.mysql: R41-4 successfully loaded.
+[21:22:09]   Loaded.
+[21:22:09]  Loaded 3 plugins.
+
+[21:22:09] 
+[21:22:09] Filterscripts
+[21:22:09] ---------------
+[21:22:09]   Loaded 0 filterscripts.
+
+[21:22:09] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[21:22:09] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[21:22:09] 
+----------------------------------
+[21:22:09]   Bare Script
+
+[21:22:09] ----------------------------------
+
+[21:22:09] Number of vehicle models: 0
+[21:22:09] --- Server Shutting Down.
+[21:22:09] 
+[21:22:09]  ===============================
+[21:22:09] 
+[21:22:09]      sscanf plugin unloaded.    
+[21:22:09] 
+[21:22:09]  ===============================
+[21:22:09] 
+[21:22:09] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+[21:22:09] plugin.mysql: Unloading plugin...
+[21:22:09] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:22:10] 
+[21:22:10] Server Plugins
+[21:22:10] --------------
+[21:22:10]  Loading plugin: sscanf.dll
+[21:22:10] 
+[21:22:10]  ===============================
+[21:22:10] 
+[21:22:10]       sscanf plugin loaded.     
+[21:22:10] 
+[21:22:10]          Version: 2.13.1
+[21:22:10] 
+[21:22:10]    (c) 2022 Alex "Y_Less" Cole  
+[21:22:10] 
+[21:22:10]  ===============================
+[21:22:10] 
+[21:22:10]   Loaded.
+[21:22:10]  Loading plugin: streamer.dll
+[21:22:10] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[21:22:10]   Loaded.
+[21:22:10]  Loading plugin: mysql.dll
+[21:22:10]  >> plugin.mysql: R41-4 successfully loaded.
+[21:22:10]   Loaded.
+[21:22:10]  Loaded 3 plugins.
+
+[21:22:10] 
+[21:22:10] Filterscripts
+[21:22:10] ---------------
+[21:22:10]   Loaded 0 filterscripts.
+
+[21:22:10] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[21:22:10] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[21:22:10] 
+----------------------------------
+[21:22:10]   Bare Script
+
+[21:22:10] ----------------------------------
+
+[21:22:10] Number of vehicle models: 0
+[21:22:10] --- Server Shutting Down.
+[21:22:10] 
+[21:22:10]  ===============================
+[21:22:10] 
+[21:22:10]      sscanf plugin unloaded.    
+[21:22:10] 
+[21:22:10]  ===============================
+[21:22:10] 
+[21:22:10] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+[21:22:10] plugin.mysql: Unloading plugin...
+[21:22:10] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:22:10] 
+[21:22:10] Server Plugins
+[21:22:10] --------------
+[21:22:10]  Loading plugin: sscanf.dll
+[21:22:10] 
+[21:22:10]  ===============================
+[21:22:10] 
+[21:22:10]       sscanf plugin loaded.     
+[21:22:10] 
+[21:22:10]          Version: 2.13.1
+[21:22:10] 
+[21:22:10]    (c) 2022 Alex "Y_Less" Cole  
+[21:22:10] 
+[21:22:10]  ===============================
+[21:22:10] 
+[21:22:10]   Loaded.
+[21:22:10]  Loading plugin: streamer.dll
+[21:22:10] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[21:22:10]   Loaded.
+[21:22:10]  Loading plugin: mysql.dll
+[21:22:10]  >> plugin.mysql: R41-4 successfully loaded.
+[21:22:10]   Loaded.
+[21:22:10]  Loaded 3 plugins.
+
+[21:22:10] 
+[21:22:10] Filterscripts
+[21:22:10] ---------------
+[21:22:10]   Loaded 0 filterscripts.
+
+[21:22:10] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[21:22:10] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[21:22:10] 
+----------------------------------
+[21:22:10]   Bare Script
+
+[21:22:10] ----------------------------------
+
+[21:22:10] Number of vehicle models: 0
+[21:22:10] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:22:13] 
+[21:22:13] Server Plugins
+[21:22:13] --------------
+[21:22:13]  Loading plugin: sscanf.dll
+[21:22:13] 
+[21:22:13]  ===============================
+[21:22:13] 
+[21:22:13]       sscanf plugin loaded.     
+[21:22:13] 
+[21:22:13]          Version: 2.13.1
+[21:22:13] 
+[21:22:13]    (c) 2022 Alex "Y_Less" Cole  
+[21:22:13] 
+[21:22:13]  ===============================
+[21:22:13] 
+[21:22:13]   Loaded.
+[21:22:13]  Loading plugin: streamer.dll
+[21:22:13] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[21:22:13]   Loaded.
+[21:22:13]  Loading plugin: mysql.dll
+[21:22:13]  >> plugin.mysql: R41-4 successfully loaded.
+[21:22:13]   Loaded.
+[21:22:13]  Loaded 3 plugins.
+
+[21:22:13] 
+[21:22:13] Filterscripts
+[21:22:13] ---------------
+[21:22:13]   Loaded 0 filterscripts.
+
+[21:22:13] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[21:22:13] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[21:22:13] 
+----------------------------------
+[21:22:13]   Bare Script
+
+[21:22:13] ----------------------------------
+
+[21:22:13] Number of vehicle models: 0
+[21:22:13] --- Server Shutting Down.
+[21:22:13] 
+[21:22:13]  ===============================
+[21:22:13] 
+[21:22:13]      sscanf plugin unloaded.    
+[21:22:13] 
+[21:22:13]  ===============================
+[21:22:13] 
+[21:22:13] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+[21:22:13] plugin.mysql: Unloading plugin...
+[21:22:13] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:22:14] 
+[21:22:14] Server Plugins
+[21:22:14] --------------
+[21:22:14]  Loading plugin: sscanf.dll
+[21:22:14] 
+[21:22:14]  ===============================
+[21:22:14] 
+[21:22:14]       sscanf plugin loaded.     
+[21:22:14] 
+[21:22:14]          Version: 2.13.1
+[21:22:14] 
+[21:22:14]    (c) 2022 Alex "Y_Less" Cole  
+[21:22:14] 
+[21:22:14]  ===============================
+[21:22:14] 
+[21:22:14]   Loaded.
+[21:22:14]  Loading plugin: streamer.dll
+[21:22:14] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[21:22:14]   Loaded.
+[21:22:14]  Loading plugin: mysql.dll
+[21:22:14]  >> plugin.mysql: R41-4 successfully loaded.
+[21:22:14]   Loaded.
+[21:22:14]  Loaded 3 plugins.
+
+[21:22:14] 
+[21:22:14] Filterscripts
+[21:22:14] ---------------
+[21:22:14]   Loaded 0 filterscripts.
+
+[21:22:14] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[21:22:14] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[21:22:14] 
+----------------------------------
+[21:22:14]   Bare Script
+
+[21:22:14] ----------------------------------
+
+[21:22:14] Number of vehicle models: 0
+[21:22:14] --- Server Shutting Down.
+[21:22:14] 
+[21:22:14]  ===============================
+[21:22:14] 
+[21:22:14]      sscanf plugin unloaded.    
+[21:22:14] 
+[21:22:14]  ===============================
+[21:22:14] 
+[21:22:14] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+[21:22:14] plugin.mysql: Unloading plugin...
+[21:22:14] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:22:14] 
+[21:22:14] Server Plugins
+[21:22:14] --------------
+[21:22:14]  Loading plugin: sscanf.dll
+[21:22:14] 
+[21:22:14]  ===============================
+[21:22:14] 
+[21:22:14]       sscanf plugin loaded.     
+[21:22:14] 
+[21:22:14]          Version: 2.13.1
+[21:22:14] 
+[21:22:14]    (c) 2022 Alex "Y_Less" Cole  
+[21:22:14] 
+[21:22:14]  ===============================
+[21:22:14] 
+[21:22:14]   Loaded.
+[21:22:14]  Loading plugin: streamer.dll
+[21:22:14] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[21:22:14]   Loaded.
+[21:22:14]  Loading plugin: mysql.dll
+[21:22:14]  >> plugin.mysql: R41-4 successfully loaded.
+[21:22:14]   Loaded.
+[21:22:14]  Loaded 3 plugins.
+
+[21:22:14] 
+[21:22:14] Filterscripts
+[21:22:14] ---------------
+[21:22:14]   Loaded 0 filterscripts.
+
+[21:22:14] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[21:22:14] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[21:22:14] 
+----------------------------------
+[21:22:14]   Bare Script
+
+[21:22:14] ----------------------------------
+
+[21:22:14] Number of vehicle models: 0
+[21:22:14] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:55:05] 
+[23:55:05] Server Plugins
+[23:55:05] --------------
+[23:55:05]  Loading plugin: sscanf.dll
+[23:55:05] 
+[23:55:05]  ===============================
+[23:55:05] 
+[23:55:05]       sscanf plugin loaded.     
+[23:55:05] 
+[23:55:05]          Version: 2.13.1
+[23:55:05] 
+[23:55:05]    (c) 2022 Alex "Y_Less" Cole  
+[23:55:05] 
+[23:55:05]  ===============================
+[23:55:05] 
+[23:55:05]   Loaded.
+[23:55:05]  Loading plugin: streamer.dll
+[23:55:05] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[23:55:05]   Loaded.
+[23:55:05]  Loading plugin: mysql.dll
+[23:55:05]  >> plugin.mysql: R41-4 successfully loaded.
+[23:55:05]   Loaded.
+[23:55:05]  Loaded 3 plugins.
+
+[23:55:05] 
+[23:55:05] Filterscripts
+[23:55:05] ---------------
+[23:55:05]   Loaded 0 filterscripts.
+
+[23:55:05] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:07:26] 
+[00:07:26] Server Plugins
+[00:07:26] --------------
+[00:07:26]  Loading plugin: sscanf.dll
+[00:07:26] 
+[00:07:26]  ===============================
+[00:07:26] 
+[00:07:26]       sscanf plugin loaded.     
+[00:07:26] 
+[00:07:26]          Version: 2.13.1
+[00:07:26] 
+[00:07:26]    (c) 2022 Alex "Y_Less" Cole  
+[00:07:26] 
+[00:07:26]  ===============================
+[00:07:26] 
+[00:07:26]   Loaded.
+[00:07:26]  Loading plugin: streamer.dll
+[00:07:26] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[00:07:26]   Loaded.
+[00:07:26]  Loading plugin: mysql.dll
+[00:07:26]  >> plugin.mysql: R41-4 successfully loaded.
+[00:07:26]   Loaded.
+[00:07:26]  Loaded 3 plugins.
+
+[00:07:26] 
+[00:07:26] Filterscripts
+[00:07:26] ---------------
+[00:07:26]   Loaded 0 filterscripts.
+
+[00:07:26] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:09:30] 
+[00:09:30] Server Plugins
+[00:09:30] --------------
+[00:09:30]  Loading plugin: sscanf.dll
+[00:09:30] 
+[00:09:30]  ===============================
+[00:09:30] 
+[00:09:30]       sscanf plugin loaded.     
+[00:09:30] 
+[00:09:30]          Version: 2.13.1
+[00:09:30] 
+[00:09:30]    (c) 2022 Alex "Y_Less" Cole  
+[00:09:30] 
+[00:09:30]  ===============================
+[00:09:30] 
+[00:09:30]   Loaded.
+[00:09:30]  Loading plugin: streamer.dll
+[00:09:30] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[00:09:30]   Loaded.
+[00:09:30]  Loading plugin: mysql.dll
+[00:09:30]  >> plugin.mysql: R41-4 successfully loaded.
+[00:09:30]   Loaded.
+[00:09:30]  Loaded 3 plugins.
+
+[00:09:30] 
+[00:09:30] Filterscripts
+[00:09:30] ---------------
+[00:09:30]   Loaded 0 filterscripts.
+
+[00:09:30] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:09:33] 
+[00:09:33] Server Plugins
+[00:09:33] --------------
+[00:09:33]  Loading plugin: sscanf.dll
+[00:09:33] 
+[00:09:33]  ===============================
+[00:09:33] 
+[00:09:33]       sscanf plugin loaded.     
+[00:09:33] 
+[00:09:33]          Version: 2.13.1
+[00:09:33] 
+[00:09:33]    (c) 2022 Alex "Y_Less" Cole  
+[00:09:33] 
+[00:09:33]  ===============================
+[00:09:33] 
+[00:09:33]   Loaded.
+[00:09:33]  Loading plugin: streamer.dll
+[00:09:33] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[00:09:33]   Loaded.
+[00:09:33]  Loading plugin: mysql.dll
+[00:09:33]  >> plugin.mysql: R41-4 successfully loaded.
+[00:09:33]   Loaded.
+[00:09:33]  Loaded 3 plugins.
+
+[00:09:33] 
+[00:09:33] Filterscripts
+[00:09:33] ---------------
+[00:09:33]   Loaded 0 filterscripts.
+
+[00:09:33] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:09:50] 
+[00:09:50] Server Plugins
+[00:09:50] --------------
+[00:09:50]  Loading plugin: sscanf.dll
+[00:09:50] 
+[00:09:50]  ===============================
+[00:09:50] 
+[00:09:50]       sscanf plugin loaded.     
+[00:09:50] 
+[00:09:50]          Version: 2.13.1
+[00:09:50] 
+[00:09:50]    (c) 2022 Alex "Y_Less" Cole  
+[00:09:50] 
+[00:09:50]  ===============================
+[00:09:50] 
+[00:09:50]   Loaded.
+[00:09:50]  Loading plugin: streamer.dll
+[00:09:50] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[00:09:50]   Loaded.
+[00:09:50]  Loading plugin: mysql.dll
+[00:09:50]  >> plugin.mysql: R41-4 successfully loaded.
+[00:09:50]   Loaded.
+[00:09:50]  Loaded 3 plugins.
+
+[00:09:50] 
+[00:09:50] Filterscripts
+[00:09:50] ---------------
+[00:09:50]   Loaded 0 filterscripts.
+
+[00:09:50] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[00:09:50] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[00:09:50] 
+----------------------------------
+[00:09:50]   Bare Script
+
+[00:09:50] ----------------------------------
+
+[00:09:50] Number of vehicle models: 0
+[00:09:50] --- Server Shutting Down.
+[00:09:50] 
+[00:09:50]  ===============================
+[00:09:50] 
+[00:09:50]      sscanf plugin unloaded.    
+[00:09:50] 
+[00:09:50]  ===============================
+[00:09:50] 
+[00:09:50] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+[00:09:50] plugin.mysql: Unloading plugin...
+[00:09:50] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:09:51] 
+[00:09:51] Server Plugins
+[00:09:51] --------------
+[00:09:51]  Loading plugin: sscanf.dll
+[00:09:51] 
+[00:09:51]  ===============================
+[00:09:51] 
+[00:09:51]       sscanf plugin loaded.     
+[00:09:51] 
+[00:09:51]          Version: 2.13.1
+[00:09:51] 
+[00:09:51]    (c) 2022 Alex "Y_Less" Cole  
+[00:09:51] 
+[00:09:51]  ===============================
+[00:09:51] 
+[00:09:51]   Loaded.
+[00:09:51]  Loading plugin: streamer.dll
+[00:09:51] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[00:09:51]   Loaded.
+[00:09:51]  Loading plugin: mysql.dll
+[00:09:51]  >> plugin.mysql: R41-4 successfully loaded.
+[00:09:51]   Loaded.
+[00:09:51]  Loaded 3 plugins.
+
+[00:09:51] 
+[00:09:51] Filterscripts
+[00:09:51] ---------------
+[00:09:51]   Loaded 0 filterscripts.
+
+[00:09:51] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[00:09:51] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[00:09:51] 
+----------------------------------
+[00:09:51]   Bare Script
+
+[00:09:51] ----------------------------------
+
+[00:09:51] Number of vehicle models: 0
+[00:09:51] --- Server Shutting Down.
+[00:09:51] 
+[00:09:51]  ===============================
+[00:09:51] 
+[00:09:51]      sscanf plugin unloaded.    
+[00:09:51] 
+[00:09:51]  ===============================
+[00:09:51] 
+[00:09:51] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+[00:09:51] plugin.mysql: Unloading plugin...
+[00:09:51] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:09:51] 
+[00:09:51] Server Plugins
+[00:09:51] --------------
+[00:09:51]  Loading plugin: sscanf.dll
+[00:09:51] 
+[00:09:51]  ===============================
+[00:09:51] 
+[00:09:51]       sscanf plugin loaded.     
+[00:09:51] 
+[00:09:51]          Version: 2.13.1
+[00:09:51] 
+[00:09:51]    (c) 2022 Alex "Y_Less" Cole  
+[00:09:51] 
+[00:09:51]  ===============================
+[00:09:51] 
+[00:09:51]   Loaded.
+[00:09:51]  Loading plugin: streamer.dll
+[00:09:51] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[00:09:51]   Loaded.
+[00:09:51]  Loading plugin: mysql.dll
+[00:09:51]  >> plugin.mysql: R41-4 successfully loaded.
+[00:09:51]   Loaded.
+[00:09:51]  Loaded 3 plugins.
+
+[00:09:51] 
+[00:09:51] Filterscripts
+[00:09:51] ---------------
+[00:09:51]   Loaded 0 filterscripts.
+
+[00:09:51] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[00:09:51] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[00:09:51] 
+----------------------------------
+[00:09:51]   Bare Script
+
+[00:09:51] ----------------------------------
+
+[00:09:51] Number of vehicle models: 0
+[00:09:51] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:11:59] 
+[00:11:59] Server Plugins
+[00:11:59] --------------
+[00:11:59]  Loading plugin: sscanf.dll
+[00:11:59] 
+[00:11:59]  ===============================
+[00:11:59] 
+[00:11:59]       sscanf plugin loaded.     
+[00:11:59] 
+[00:11:59]          Version: 2.13.1
+[00:11:59] 
+[00:11:59]    (c) 2022 Alex "Y_Less" Cole  
+[00:11:59] 
+[00:11:59]  ===============================
+[00:11:59] 
+[00:11:59]   Loaded.
+[00:11:59]  Loading plugin: streamer.dll
+[00:11:59] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[00:11:59]   Loaded.
+[00:11:59]  Loading plugin: mysql.dll
+[00:11:59]  >> plugin.mysql: R41-4 successfully loaded.
+[00:11:59]   Loaded.
+[00:11:59]  Loaded 3 plugins.
+
+[00:11:59] 
+[00:11:59] Filterscripts
+[00:11:59] ---------------
+[00:11:59]   Loaded 0 filterscripts.
+
+[00:11:59] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[00:11:59] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[00:11:59] 
+----------------------------------
+[00:11:59]   Bare Script
+
+[00:11:59] ----------------------------------
+
+[00:11:59] Number of vehicle models: 0
+[00:11:59] --- Server Shutting Down.
+[00:11:59] 
+[00:11:59]  ===============================
+[00:11:59] 
+[00:11:59]      sscanf plugin unloaded.    
+[00:11:59] 
+[00:11:59]  ===============================
+[00:11:59] 
+[00:11:59] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+[00:11:59] plugin.mysql: Unloading plugin...
+[00:11:59] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:12:00] 
+[00:12:00] Server Plugins
+[00:12:00] --------------
+[00:12:00]  Loading plugin: sscanf.dll
+[00:12:00] 
+[00:12:00]  ===============================
+[00:12:00] 
+[00:12:00]       sscanf plugin loaded.     
+[00:12:00] 
+[00:12:00]          Version: 2.13.1
+[00:12:00] 
+[00:12:00]    (c) 2022 Alex "Y_Less" Cole  
+[00:12:00] 
+[00:12:00]  ===============================
+[00:12:00] 
+[00:12:00]   Loaded.
+[00:12:00]  Loading plugin: streamer.dll
+[00:12:00] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[00:12:00]   Loaded.
+[00:12:00]  Loading plugin: mysql.dll
+[00:12:00]  >> plugin.mysql: R41-4 successfully loaded.
+[00:12:00]   Loaded.
+[00:12:00]  Loaded 3 plugins.
+
+[00:12:00] 
+[00:12:00] Filterscripts
+[00:12:00] ---------------
+[00:12:00]   Loaded 0 filterscripts.
+
+[00:12:00] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[00:12:00] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[00:12:00] 
+----------------------------------
+[00:12:00]   Bare Script
+
+[00:12:00] ----------------------------------
+
+[00:12:00] Number of vehicle models: 0
+[00:12:00] --- Server Shutting Down.
+[00:12:01] 
+[00:12:01]  ===============================
+[00:12:01] 
+[00:12:01]      sscanf plugin unloaded.    
+[00:12:01] 
+[00:12:01]  ===============================
+[00:12:01] 
+[00:12:01] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+[00:12:01] plugin.mysql: Unloading plugin...
+[00:12:01] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:12:01] 
+[00:12:01] Server Plugins
+[00:12:01] --------------
+[00:12:01]  Loading plugin: sscanf.dll
+[00:12:01] 
+[00:12:01]  ===============================
+[00:12:01] 
+[00:12:01]       sscanf plugin loaded.     
+[00:12:01] 
+[00:12:01]          Version: 2.13.1
+[00:12:01] 
+[00:12:01]    (c) 2022 Alex "Y_Less" Cole  
+[00:12:01] 
+[00:12:01]  ===============================
+[00:12:01] 
+[00:12:01]   Loaded.
+[00:12:01]  Loading plugin: streamer.dll
+[00:12:01] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[00:12:01]   Loaded.
+[00:12:01]  Loading plugin: mysql.dll
+[00:12:01]  >> plugin.mysql: R41-4 successfully loaded.
+[00:12:01]   Loaded.
+[00:12:01]  Loaded 3 plugins.
+
+[00:12:01] 
+[00:12:01] Filterscripts
+[00:12:01] ---------------
+[00:12:01]   Loaded 0 filterscripts.
+
+[00:12:01] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[00:12:01] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[00:12:01] 
+----------------------------------
+[00:12:01]   Bare Script
+
+[00:12:01] ----------------------------------
+
+[00:12:01] Number of vehicle models: 0
+[00:12:01] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:14:33] 
+[00:14:33] Server Plugins
+[00:14:33] --------------
+[00:14:33]  Loading plugin: sscanf.dll
+[00:14:33] 
+[00:14:33]  ===============================
+[00:14:33] 
+[00:14:33]       sscanf plugin loaded.     
+[00:14:33] 
+[00:14:33]          Version: 2.13.1
+[00:14:33] 
+[00:14:33]    (c) 2022 Alex "Y_Less" Cole  
+[00:14:33] 
+[00:14:33]  ===============================
+[00:14:33] 
+[00:14:33]   Loaded.
+[00:14:33]  Loading plugin: streamer.dll
+[00:14:33] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[00:14:33]   Loaded.
+[00:14:33]  Loading plugin: mysql.dll
+[00:14:33]  >> plugin.mysql: R41-4 successfully loaded.
+[00:14:33]   Loaded.
+[00:14:33]  Loaded 3 plugins.
+
+[00:14:33] 
+[00:14:33] Filterscripts
+[00:14:33] ---------------
+[00:14:33]   Loaded 0 filterscripts.
+
+[00:14:33] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[00:14:33] MySQL: La conexion a la base de datos no se ha podido dar, server closed.
+[00:14:33] 
+----------------------------------
+[00:14:33]   Bare Script
+
+[00:14:33] ----------------------------------
+
+[00:14:33] Number of vehicle models: 0
+[00:14:33] --- Server Shutting Down.
+[00:14:33] 
+[00:14:33]  ===============================
+[00:14:33] 
+[00:14:33]      sscanf plugin unloaded.    
+[00:14:33] 
+[00:14:33]  ===============================
+[00:14:33] 
+[00:14:33] 
+
+*** Streamer Plugin v2.9.5 by Incognito unloaded ***
+
+[00:14:33] plugin.mysql: Unloading plugin...
+[00:14:33] plugin.mysql: Plugin unloaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:17:44] 
+[00:17:44] Server Plugins
+[00:17:44] --------------
+[00:17:44]  Loading plugin: sscanf.dll
+[00:17:44] 
+[00:17:44]  ===============================
+[00:17:44] 
+[00:17:44]       sscanf plugin loaded.     
+[00:17:44] 
+[00:17:44]          Version: 2.13.1
+[00:17:44] 
+[00:17:44]    (c) 2022 Alex "Y_Less" Cole  
+[00:17:44] 
+[00:17:44]  ===============================
+[00:17:44] 
+[00:17:44]   Loaded.
+[00:17:44]  Loading plugin: streamer.dll
+[00:17:44] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[00:17:44]   Loaded.
+[00:17:44]  Loading plugin: mysql.dll
+[00:17:44]  >> plugin.mysql: R41-4 successfully loaded.
+[00:17:44]   Loaded.
+[00:17:44]  Loaded 3 plugins.
+
+[00:17:44] 
+[00:17:44] Filterscripts
+[00:17:44] ---------------
+[00:17:44]   Loaded 0 filterscripts.
+
+[00:17:44] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[00:17:44] MySQL: La conexion a la base de datos ha sido exitosa
+[00:17:44] 
+----------------------------------
+[00:17:44]   Bare Script
+
+[00:17:44] ----------------------------------
+
+[00:17:44] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:19:33] 
+[00:19:33] Server Plugins
+[00:19:33] --------------
+[00:19:33]  Loading plugin: sscanf.dll
+[00:19:33] 
+[00:19:33]  ===============================
+[00:19:33] 
+[00:19:33]       sscanf plugin loaded.     
+[00:19:33] 
+[00:19:33]          Version: 2.13.1
+[00:19:33] 
+[00:19:33]    (c) 2022 Alex "Y_Less" Cole  
+[00:19:33] 
+[00:19:33]  ===============================
+[00:19:33] 
+[00:19:33]   Loaded.
+[00:19:33]  Loading plugin: streamer.dll
+[00:19:33] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[00:19:33]   Loaded.
+[00:19:33]  Loading plugin: mysql.dll
+[00:19:33]  >> plugin.mysql: R41-4 successfully loaded.
+[00:19:33]   Loaded.
+[00:19:33]  Loaded 3 plugins.
+
+[00:19:33] 
+[00:19:33] Filterscripts
+[00:19:33] ---------------
+[00:19:33]   Loaded 0 filterscripts.
+
+[00:19:33] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[00:19:33] MySQL: La conexion a la base de datos ha sido exitosa
+[00:19:33] 
+----------------------------------
+[00:19:33]   Bare Script
+
+[00:19:33] ----------------------------------
+
+[00:19:33] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:20:20] 
+[00:20:20] Server Plugins
+[00:20:20] --------------
+[00:20:20]  Loading plugin: sscanf.dll
+[00:20:20] 
+[00:20:20]  ===============================
+[00:20:20] 
+[00:20:20]       sscanf plugin loaded.     
+[00:20:20] 
+[00:20:20]          Version: 2.13.1
+[00:20:20] 
+[00:20:20]    (c) 2022 Alex "Y_Less" Cole  
+[00:20:20] 
+[00:20:20]  ===============================
+[00:20:20] 
+[00:20:20]   Loaded.
+[00:20:20]  Loading plugin: streamer.dll
+[00:20:20] 
+
+*** Streamer Plugin v2.9.5 by Incognito loaded ***
+
+[00:20:20]   Loaded.
+[00:20:20]  Loading plugin: mysql.dll
+[00:20:20]  >> plugin.mysql: R41-4 successfully loaded.
+[00:20:20]   Loaded.
+[00:20:20]  Loaded 3 plugins.
+
+[00:20:20] 
+[00:20:20] Filterscripts
+[00:20:20] ---------------
+[00:20:20]   Loaded 0 filterscripts.
+
+[00:20:20] AllowAdminTeleport() : function is deprecated. Please see OnPlayerClickMap()
+[00:20:20] MySQL: La conexion a la base de datos ha sido exitosa
+[00:20:20] 
+----------------------------------
+[00:20:20]   Bare Script
+
+[00:20:20] ----------------------------------
+
+[00:20:20] Number of vehicle models: 0
